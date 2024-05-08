@@ -10,19 +10,19 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Konformität zum Cyber Resilience Act
+      text: 🔒 Wir helfen Ihnen dabei Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten. 🔒
       primary_action:
-        text: Get Started
+        text: Fragen Sie uns an!
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: Über uns
+        url: /#about
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Erfahren Sie mehr zum Cyber Resilience Act."
         link:
-          text: "Read more"
+          text: "Mehr lesen"
           url: "/blog/"
     design:
       spacing:
@@ -39,7 +39,7 @@ sections:
             brightness: 0.5
   - block: stats
     content:
-      items:
+      items:  
         - statistic: "1M+"
           description: |
             Websites built  
@@ -113,16 +113,12 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
+  - block: stats  
     content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+      form:
+        provider: netlify
+        netlify:
+          captcha: true
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
@@ -132,7 +128,7 @@ sections:
       title: Build your future-proof website
       text: As easy as 1, 2, 3!
       button:
-        text: Get Started
+        text: Jetzt Anfragen
         url: https://hugoblox.com/templates/
     design:
       card:
