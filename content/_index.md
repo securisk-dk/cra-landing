@@ -68,11 +68,11 @@ sections:
           icon: magnifying-glass
           description: Regularien wie der CRA schreiben eine Risikoanalyse als Teil der technischen Dokumentation Ihres Produkts vor. Wir helfen Ihnen bei der Durchführung der Analyse und der Erstellung der entsprechenden Dokumentation.
         - name: Sicherheitsconcept
-          icon: bolt
+          icon: shield-check
           description: Die Regularien schreiben weiterhin das Einbeziehen von Cybersicherheit während des gesamten Produktzyklus vor. Gerne helfen wir Ihnen dabei Ihr Produkt sicher zu gestalten und beraten zu wirksamen Maßnahmen, welche die Sicherheitsrisiken minimieren. 
         - name: Monitoring
-          icon: sparkles
-          description: Auch schreiben Regularien vor, dass sie den Sicherheitszustands Ihres Produktes in Betrieb monitoren. Gerne entwickeln wir mit Ihnen gemeinsam Lösungen, wie Sie einen sicheren Betrieb Ihres Produktes beurteilen können. 
+          icon: computer-desktop
+          description: Auch schreiben Regularien vor, dass Sie den Sicherheitszustands Ihres Produktes in Betrieb überprüfen und Sicherheitsvorfälle melden. Gerne entwickeln wir mit Ihnen gemeinsam Lösungen, wie Sie einen sicheren Betrieb Ihres Produktes beurteilen können. 
   - block: cta-image-paragraph
     id: solutions
     content:
