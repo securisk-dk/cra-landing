@@ -62,12 +62,13 @@ sections:
     id: features
     content:
       title: Unsere Lösungen
-      text: Full-Cycle Cyber Security für Ihr Hardware oder Software Produkt
+      text: Full-Cycle Cyber Security Lösungen für Ihr Hardware oder Software Produkt. Konzentrieren Sie sich auf Ihr Kerngeschäft.
+  
       items:
         - name: Risikoanalyse
           icon: magnifying-glass
           description: Regularien wie der CRA schreiben eine Risikoanalyse als Teil der technischen Dokumentation Ihres Produkts vor. Wir helfen Ihnen bei der Durchführung der Analyse und der Erstellung der entsprechenden Dokumentation.
-        - name: Sicherheitsconcept
+        - name: Sicherheitskonzept
           icon: shield-check
           description: Die Regularien schreiben weiterhin das Einbeziehen von Cybersicherheit während des gesamten Produktzyklus vor. Gerne helfen wir Ihnen dabei Ihr Produkt sicher zu gestalten und beraten zu wirksamen Maßnahmen, welche die Sicherheitsrisiken minimieren. 
         - name: Monitoring
