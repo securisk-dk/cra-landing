@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home | AD Solutions</title>
-    <link>http://localhost:34979/</link>
-      <atom:link href="http://localhost:34979/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:46253/</link>
+      <atom:link href="http://localhost:46253/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:34979/media/logo.svg</url>
+      <url>http://localhost:46253/media/logo.svg</url>
       <title>Home</title>
-      <link>http://localhost:34979/</link>
+      <link>http://localhost:46253/</link>
     </image>
     
     <item>
       <title>Cyber Resilience Act</title>
-      <link>http://localhost:34979/blog/cyber-resilience-act/</link>
+      <link>http://localhost:46253/blog/cyber-resilience-act/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34979/blog/cyber-resilience-act/</guid>
+      <guid>http://localhost:46253/blog/cyber-resilience-act/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -89,18 +89,18 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:34979/privacy/</link>
+      <link>http://localhost:46253/privacy/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34979/privacy/</guid>
+      <guid>http://localhost:46253/privacy/</guid>
       <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms of Service</title>
-      <link>http://localhost:34979/terms/</link>
+      <link>http://localhost:46253/terms/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34979/terms/</guid>
+      <guid>http://localhost:46253/terms/</guid>
       <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
