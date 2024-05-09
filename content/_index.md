@@ -20,9 +20,9 @@ sections:
         text: Über uns
         url: /#about
       announcement:
-        text: "Erfahren Sie mehr zum Cyber Resilience Act."
+        text: "Ist mein Produkt vom Cyber Resilience Act betroffen?"
         link:
-          text: "Mehr lesen"
+          text: "Erfahren Sie mehr."
           url: "/blog/"
     design:
       spacing:
@@ -37,51 +37,42 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
-  - block: stats
-    content:
-      items:  
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
+  # - block: stats
+  #   content:
+  #     items:  
+  #       - statistic: "1M+"
+  #         description: |
+  #           Websites built  
+  #           with Hugo Blox
+  #       - statistic: "10k+"
+  #         description: |
+  #           GitHub stars  
+  #           since 2016
+  #       - statistic: "3k+"
+  #         description: |
+  #           Discord community  
+  #           for support
+  #   design:
+  #     # Section background color (CSS class)
+  #     css_class: "bg-gray-100 dark:bg-gray-900"
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: ["1rem", 0, "1rem", 0]
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Unsere Lösungen
+      text: Full-Cycle Cyber Security für Ihr Hardware oder Software Produkt
       items:
-        - name: Optimized SEO
+        - name: Risikoanalyse
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Regularien wie der CRA schreiben eine Risikoanalyse als Teil der technischen Dokumentation Ihres Produkts vor. Wir helfen Ihnen bei der Durchführung der Analyse und der Erstellung der entsprechenden Dokumentation.
+        - name: Sicherheitsconcept
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: Die Regularien schreiben weiterhin das Einbeziehen von Cybersicherheit während des gesamten Produktzyklus vor. Gerne helfen wir Ihnen dabei Ihr Produkt sicher zu gestalten und beraten zu wirksamen Maßnahmen, welche die Sicherheitsrisiken minimieren. 
+        - name: Monitoring
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Auch schreiben Regularien vor, dass sie den Sicherheitszustands Ihres Produktes in Betrieb monitoren. Gerne entwickeln wir mit Ihnen gemeinsam Lösungen, wie Sie einen sicheren Betrieb Ihres Produktes beurteilen können. 
   - block: cta-image-paragraph
     id: solutions
     content:
