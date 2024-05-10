@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:46253/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/blog/cyber-resilience-act/</loc>
+    <loc>http://localhost:1313/blog/cyber-resilience-act/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/tag/hugo-blox/</loc>
+    <loc>http://localhost:1313/tag/hugo-blox/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/tag/markdown/</loc>
+    <loc>http://localhost:1313/tag/markdown/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/privacy/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/terms/</loc>
+    <loc>http://localhost:1313/terms/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:46253/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

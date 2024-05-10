@@ -59,7 +59,7 @@ sections:
   #     spacing:
   #       padding: ["1rem", 0, "1rem", 0]
   - block: features
-    id: features
+    id: solutions 
     content:
       title: Unsere Lösungen
       text: Full-Cycle Cyber Security Lösungen für Ihr Hardware oder Software Produkt. Konzentrieren Sie sich auf Ihr Kerngeschäft.
@@ -88,8 +88,7 @@ sections:
       biography:
         # Customize the CSS style of your biography text (optional)
         style: ''
-        # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+
   - block: resume-biography
     content:
       username: david

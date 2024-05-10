@@ -2,26 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home | AD Solutions</title>
-    <link>http://localhost:46253/</link>
-      <atom:link href="http://localhost:46253/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:46253/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Home</title>
-      <link>http://localhost:46253/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Cyber Resilience Act</title>
-      <link>http://localhost:46253/blog/cyber-resilience-act/</link>
+      <link>http://localhost:1313/blog/cyber-resilience-act/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46253/blog/cyber-resilience-act/</guid>
-      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
+      <guid>http://localhost:1313/blog/cyber-resilience-act/</guid>
+      <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; wurde bereits vom EU Parlement verabschiedet und wird nach formeller Verabschiedung im EU Rat höchstwarscheinlich in den nächsten Wochen in Kraft treten. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
+&lt;h2 id=&#34;ist-mein-produkt-betroffen&#34;&gt;Ist mein Produkt betroffen?&lt;/h2&gt;
+&lt;p&gt;Betroffen sind digitale Produkte &amp;ndash; sprich Produkte mit Hardware und/oder Software Komponenten &amp;ndash; welche grundsätzlich eine Kommunikationsschnittstelle (mit Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen sind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Smart Home Produkte&lt;/li&gt;
+&lt;li&gt;Spielzeug mit Stimmaufnahme und Verarbeitung&lt;/li&gt;
+&lt;li&gt;Industriesteuerung&lt;/li&gt;
+&lt;li&gt;Automatisierungsgeräte (z.B. Roboterarme)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wann-tritt-der-cyber-resiliance-act-in-kraft&#34;&gt;Wann tritt der Cyber Resiliance Act in Kraft?&lt;/h2&gt;
+&lt;p&gt;Dass der CRA demnächste in Kraft tritt, ist sicher. Wann dies der Fall sein wird, ist noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU Rat den CRA in den nächsten Wochen final verabschieden wird und er dann in Kraft tritt.&lt;/p&gt;
+&lt;p&gt;Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen während des kompletten Produktzyklus handelt und IT-Sicherheit schon während der Entwicklung mit einbezogen werden muss, sollten Herrsteller jedoch baldig beginnen, die Maßnahmen in ihre Prozesse und Produkte zu integrieren.&lt;/p&gt;
+&lt;h2 id=&#34;was-sind-meine-pflichten&#34;&gt;Was sind meine Pflichten?&lt;/h2&gt;
+&lt;h2 id=&#34;was-passiert-bei-nichterfüllung&#34;&gt;Was passiert bei Nichterfüllung?&lt;/h2&gt;
+&lt;!-- Hugo Blox supports a Markdown extension for mindmaps.
+
+Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+
+Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+
 &lt;div class=&#34;highlight&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;
 &lt;code&gt;
@@ -35,20 +50,37 @@
 &lt;/code&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
 
-&lt;pre&gt;- Hugo Modules
+renders as
+
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
   - Hugo Blox
   - blox-plugins-netlify
   - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
+  - blox-plugins-reveal
+```
 
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+## Diagrams
+
+Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+
+An example **Gantt diagram**:
+
+    ```mermaid
+    gantt
+    section Section
+    Completed :done,    des1, 2014-01-06,2014-01-08
+    Active        :active,  des2, 2014-01-07, 3d
+    Parallel 1   :         des3, after des1, 1d
+    Parallel 2   :         des4, after des1, 1d
+    Parallel 3   :         des5, after des3, 1d
+    Parallel 4   :         des6, after des4, 1d
+    ```
+
+renders as
+
+```mermaid
 gantt
 section Section
 Completed :done,    des1, 2014-01-06,2014-01-08
@@ -58,49 +90,41 @@ Parallel 2   :         des4, after des1, 1d
 Parallel 3   :         des5, after des3, 1d
 Parallel 4   :         des6, after des4, 1d
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/div&gt;
-&lt;h2 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h2&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+
+## Todo lists
+
+You can even write your todo lists in Markdown too:
+
+```markdown
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
+```
+
+renders as
+
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
+
+## Did you find this page helpful? Consider sharing it 🙌 --&gt;
 </description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:46253/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46253/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms of Service</title>
-      <link>http://localhost:46253/terms/</link>
+      <link>http://localhost:1313/terms/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46253/terms/</guid>
+      <guid>http://localhost:1313/terms/</guid>
       <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
 </description>
     </item>

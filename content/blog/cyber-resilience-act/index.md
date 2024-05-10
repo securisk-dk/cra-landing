@@ -5,17 +5,38 @@ date: 2024-05-08
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - CRA
+  - Sicherheit
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: IoT Security (created using midjourney AI)
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+Der [Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) wurde bereits vom EU Parlement verabschiedet und wird nach formeller Verabschiedung im EU Rat höchstwarscheinlich in den nächsten Wochen in Kraft treten. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.
 
-## Ideation
+## Ist mein Produkt betroffen?
 
-Hugo Blox supports a Markdown extension for mindmaps.
+Betroffen sind digitale Produkte -- sprich Produkte mit Hardware und/oder Software Komponenten -- welche grundsätzlich eine Kommunikationsschnittstelle (mit Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen sind: 
+
+- Smart Home Produkte 
+- Spielzeug mit Stimmaufnahme und Verarbeitung
+- Industriesteuerung
+- Automatisierungsgeräte (z.B. Roboterarme)
+ 
+
+
+## Wann tritt der Cyber Resiliance Act in Kraft?
+
+Dass der CRA demnächste in Kraft tritt, ist sicher. Wann dies der Fall sein wird, ist noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU Rat den CRA in den nächsten Wochen final verabschieden wird und er dann in Kraft tritt.
+
+Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen während des kompletten Produktzyklus handelt und IT-Sicherheit schon während der Entwicklung mit einbezogen werden muss, sollten Herrsteller jedoch baldig beginnen, die Maßnahmen in ihre Prozesse und Produkte zu integrieren. 
+
+
+## Was sind meine Pflichten?
+
+
+## Was passiert bei Nichterfüllung?
+
+<!-- Hugo Blox supports a Markdown extension for mindmaps.
 
 Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
 
@@ -91,4 +112,4 @@ renders as
   - [x] Write diagram example
 - [ ] Do something else
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->

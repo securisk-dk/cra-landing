@@ -59,7 +59,6 @@
       "avatar",
       "avatar-emoji",
       "avatar-wrapper",
-      "bg-gray-100",
       "bg-image",
       "bg-neutral-300",
       "bg-primary-100",
@@ -87,7 +86,6 @@
       "dark:[&.active]:text-white",
       "dark:bg-black/80",
       "dark:bg-gray-800",
-      "dark:bg-gray-900",
       "dark:bg-hb-dark",
       "dark:bg-neutral-700",
       "dark:bg-primary-300",
@@ -427,9 +425,9 @@
       "about",
       "diagrams",
       "did-you-find-this-page-helpful-consider-sharing-it-",
-      "features",
       "hide-button",
       "ideation",
+      "ist-mein-produkt-betroffen",
       "moon",
       "nav-menu",
       "nav-toggle",
@@ -446,9 +444,13 @@
       "share-link-x",
       "show-button",
       "site-header",
+      "solutions",
       "sun",
       "todo-lists",
-      "top"
+      "top",
+      "wann-tritt-der-cyber-resiliance-act-in-kraft",
+      "was-passiert-bei-nichterfüllung",
+      "was-sind-meine-pflichten"
     ]
   }
 }
