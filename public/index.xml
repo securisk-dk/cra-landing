@@ -19,7 +19,7 @@
       <guid>http://localhost:1313/blog/cyber-resilience-act/</guid>
       <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; wurde bereits vom EU Parlement verabschiedet und wird nach formeller Verabschiedung im EU Rat höchstwarscheinlich in den nächsten Wochen in Kraft treten. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
 &lt;h2 id=&#34;ist-mein-produkt-betroffen&#34;&gt;Ist mein Produkt betroffen?&lt;/h2&gt;
-&lt;p&gt;Betroffen sind digitale Produkte &amp;ndash; sprich Produkte mit Hardware und/oder Software Komponenten &amp;ndash; welche grundsätzlich eine Kommunikationsschnittstelle (mit Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen sind:&lt;/p&gt;
+&lt;p&gt;Betroffen sind digitale Produkte &amp;ndash; sprich Produkte mit Hardware und/oder Software Komponenten &amp;ndash; welche grundsätzlich eine Kommunikationsschnittstelle (mit Steckverbindung, Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen, sind:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Smart Home Produkte&lt;/li&gt;
 &lt;li&gt;Spielzeug mit Stimmaufnahme und Verarbeitung&lt;/li&gt;
@@ -30,6 +30,30 @@
 &lt;p&gt;Dass der CRA demnächste in Kraft tritt, ist sicher. Wann dies der Fall sein wird, ist noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU Rat den CRA in den nächsten Wochen final verabschieden wird und er dann in Kraft tritt.&lt;/p&gt;
 &lt;p&gt;Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen während des kompletten Produktzyklus handelt und IT-Sicherheit schon während der Entwicklung mit einbezogen werden muss, sollten Herrsteller jedoch baldig beginnen, die Maßnahmen in ihre Prozesse und Produkte zu integrieren.&lt;/p&gt;
 &lt;h2 id=&#34;was-sind-meine-pflichten&#34;&gt;Was sind meine Pflichten?&lt;/h2&gt;
+&lt;p&gt;Der CRA nimmt Hersteller in die Pflicht, Cyber Security während des gesamten Produktzyklus zu betrachten. Die spezifischen Pflichten unterscheiden sich je nach Kategorisierung des Produktes. Hierbei gibt es folgene Hauptkategorisierung:&lt;/p&gt;
+&lt;h3 id=&#34;produkte-mit-digitalen-elementen&#34;&gt;Produkte mit digitalen Elementen&lt;/h3&gt;
+&lt;p&gt;Grundlegend müssen für Produkte mit digitalen Elementen die im Anhang I Kapitel 1 definierten Maßnahmen umgesetzt werden:&lt;/p&gt;
+&lt;h4 id=&#34;sicherheitsanforderungen&#34;&gt;Sicherheitsanforderungen&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Produkte mit digitalen Elementen werden so konzipiert, entwickelt und hergestellt, dass sie angesichts der Risiken ein angemessenes Cybersicherheitsniveau gewährleisten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Produkte mit digitalen Elementen werden ohne bekannte ausnutzbare Schwachstellen ausgeliefert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Auf der Grundlage einer Risikobewertung muss das Risiko bezüglich der Schutziele (Vertraulichkeit, Integrität und Authentizität) minimiert werden, um Sicherheit und Privatsphäre angemessen zu schützen. Hierzu werden konkrete Vorgaben gemacht, wie &lt;em&gt;Minimalisierung der Datenmengen&lt;/em&gt;, &lt;em&gt;Monitoring&lt;/em&gt;, und &lt;em&gt;Einfache Updatebarkeit&lt;/em&gt;. Diese müssen von Herstellern bestrachtet und umgesetzt werden. Diese Risikobewertung muss insbesondere der technischen Dokumentation beigefügt werden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;anforderungen-an-die-behandlung-von-schwachstellen&#34;&gt;Anforderungen an die Behandlung von Schwachstellen&lt;/h4&gt;
+&lt;h3 id=&#34;kritische-produkte-mit-digitalen-elementen&#34;&gt;Kritische Produkte mit digitalen Elementen&lt;/h3&gt;
+&lt;p&gt;Im Anhang III der CRA sind Kernfunktionalitäten aufgelistet. Produkte, welche diese Funktionalitäten beinhalten gehen mit intensiveren Pflichten einher - wobei Klasse II nochmal umfangreicher gehandhabt werden muss als Klasse I. Dies geht einfach mit einem erhöhten Sicherheitsrisiko dieser Proudukte einher.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Konformitätsassessment in Artikel 24 (2) and (3).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;klasse-i&#34;&gt;Klasse I&lt;/h4&gt;
+&lt;h4 id=&#34;klasse-ii&#34;&gt;Klasse II&lt;/h4&gt;
+&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
 &lt;h2 id=&#34;was-passiert-bei-nichterfüllung&#34;&gt;Was passiert bei Nichterfüllung?&lt;/h2&gt;
 &lt;!-- Hugo Blox supports a Markdown extension for mindmaps.
 

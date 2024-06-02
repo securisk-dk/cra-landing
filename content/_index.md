@@ -23,7 +23,7 @@ sections:
         text: "Ist mein Produkt vom Cyber Resilience Act betroffen?"
         link:
           text: "Erfahren Sie mehr."
-          url: "/blog/"
+          url: "/blog/cyber-resilience-act/"
     design:
       spacing:
         padding: [0, 0, 0, 0]

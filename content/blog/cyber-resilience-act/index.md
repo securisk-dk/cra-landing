@@ -15,7 +15,7 @@ Der [Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/polici
 
 ## Ist mein Produkt betroffen?
 
-Betroffen sind digitale Produkte -- sprich Produkte mit Hardware und/oder Software Komponenten -- welche grundsätzlich eine Kommunikationsschnittstelle (mit Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen sind: 
+Betroffen sind digitale Produkte -- sprich Produkte mit Hardware und/oder Software Komponenten -- welche grundsätzlich eine Kommunikationsschnittstelle (mit Steckverbindung, Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen, sind: 
 
 - Smart Home Produkte 
 - Spielzeug mit Stimmaufnahme und Verarbeitung
@@ -32,6 +32,39 @@ Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maß
 
 
 ## Was sind meine Pflichten?
+
+Der CRA nimmt Hersteller in die Pflicht, Cyber Security während des gesamten Produktzyklus zu betrachten. Die spezifischen Pflichten unterscheiden sich je nach Kategorisierung des Produktes. Hierbei gibt es folgene Hauptkategorisierung:
+
+### Produkte mit digitalen Elementen
+
+Grundlegend müssen für Produkte mit digitalen Elementen die im Anhang I Kapitel 1 definierten Maßnahmen umgesetzt werden:
+
+#### Sicherheitsanforderungen
+
+1. Produkte mit digitalen Elementen werden so konzipiert, entwickelt und hergestellt, dass sie angesichts der Risiken ein angemessenes Cybersicherheitsniveau gewährleisten.
+
+2. Produkte mit digitalen Elementen werden ohne bekannte ausnutzbare Schwachstellen ausgeliefert.
+
+3. Auf der Grundlage einer Risikobewertung muss das Risiko bezüglich der Schutziele (Vertraulichkeit, Integrität und Authentizität) minimiert werden, um Sicherheit und Privatsphäre angemessen zu schützen. Hierzu werden konkrete Vorgaben gemacht, wie *Minimalisierung der Datenmengen*, *Monitoring*, und *Einfache Updatebarkeit*. Diese müssen von Herstellern bestrachtet und umgesetzt werden. Diese Risikobewertung muss insbesondere der technischen Dokumentation beigefügt werden.
+
+#### Anforderungen an die Behandlung von Schwachstellen
+
+
+### Kritische Produkte mit digitalen Elementen 
+Im Anhang III der CRA sind Kernfunktionalitäten aufgelistet. Produkte, welche diese Funktionalitäten beinhalten gehen mit intensiveren Pflichten einher - wobei Klasse II nochmal umfangreicher gehandhabt werden muss als Klasse I. Dies geht einfach mit einem erhöhten Sicherheitsrisiko dieser Proudukte einher.
+
+- Konformitätsassessment in Artikel 24 (2) and (3).
+#### Klasse I
+
+
+
+ 
+
+#### Klasse II
+
+
+
+### 
 
 
 ## Was passiert bei Nichterfüllung?
