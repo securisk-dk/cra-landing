@@ -1,6 +1,6 @@
 ---
-title: Der Cyber Resilience Act - Die EU verpflichtet Herrsteller digitaler Produkte zu IT-Sicherheit und Risikobewertung 
-summary: Der vom EU Parlament verabschiedete Cyber Resilience Act verpflichtet Herrsteller von digitalen Produkten zu intensiven IT-Sicherheitsmaßnamen und einer umfangreichen Dokumentation. Mit diesem Artikel möchten wir Ihnen die Möglichkeit geben zu überprüfen, ob Ihr Produkt vom Cyber Resilience Act betroffen ist und welchen Umfang dieser hat.
+title: Der Cyber Resilience Act - Die EU verpflichtet Hersteller digitaler Produkte zu IT-Sicherheit und Risikobewertung 
+summary: Der vom EU Parlament verabschiedete Cyber Resilience Act verpflichtet Hersteller von digitalen Produkten zu intensiven IT-Sicherheitsmaßnamen und einer umfangreichen Dokumentation. Mit diesem Artikel möchten wir Ihnen die Möglichkeit geben zu überprüfen, ob Ihr Produkt vom Cyber Resilience Act betroffen ist und welchen Umfang dieser hat.
 date: 2024-08-29
 authors:
   - admin
