@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home | Flūela Solutions</title>
-    <link>http://localhost:34341/</link>
-      <atom:link href="http://localhost:34341/index.xml" rel="self" type="application/rss+xml" />
-    <description>Home</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <title>IT-Sicherheit | Flūela Solutions</title>
+    <link>http://localhost:34341/tag/it-sicherheit/</link>
+      <atom:link href="http://localhost:34341/tag/it-sicherheit/index.xml" rel="self" type="application/rss+xml" />
+    <description>IT-Sicherheit</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:34341/media/logo.svg</url>
-      <title>Home</title>
-      <link>http://localhost:34341/</link>
+      <title>IT-Sicherheit</title>
+      <link>http://localhost:34341/tag/it-sicherheit/</link>
     </image>
     
     <item>
@@ -193,24 +193,6 @@ renders as
 &lt;li&gt;Wie wird die Umsetzbarkeit eines Angriffs bewertet?&lt;/li&gt;
 &lt;li&gt;Warum hilft uns das?&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:34341/privacy/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34341/privacy/</guid>
-      <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:34341/terms/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34341/terms/</guid>
-      <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
