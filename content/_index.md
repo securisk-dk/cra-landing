@@ -14,7 +14,7 @@ sections:
       text: 🔒 Wir helfen Ihnen dabei Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten. 🔒
       primary_action:
         text: Fragen Sie uns an!
-        url: https://hugoblox.com/templates/
+        url: 'mailto:securisk-dk@gmail.com'
         icon: rocket-launch
       secondary_action:
         text: Über uns
@@ -75,7 +75,6 @@ sections:
           icon: computer-desktop
           description: Auch schreiben Regularien vor, dass Sie den Sicherheitszustands Ihres Produktes in Betrieb überprüfen und Sicherheitsvorfälle melden. Gerne entwickeln wir mit Ihnen gemeinsam Lösungen, wie Sie einen sicheren Betrieb Ihres Produktes beurteilen können. 
   - block: resume-biography
-    title: Über Uns
     id: about
     # content:
     #   # The user's folder name in `content/authors/`
