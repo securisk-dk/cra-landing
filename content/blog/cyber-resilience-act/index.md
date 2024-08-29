@@ -8,7 +8,7 @@ tags:
   - CRA
   - IT Sicherheit
 image:
-  caption: IoT Security (created using midjourney AI)
+  caption: EU/Chip Art (created using flux.1 pro AI)
 ---
 
 Der [Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) wurde bereits vom EU Parlement verabschiedet und wird nach formeller Bestätigung des EU Rates höchstwarscheinlich in den nächsten Wochen final beschlossen. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.
