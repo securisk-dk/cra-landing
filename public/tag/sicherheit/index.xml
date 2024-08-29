@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sicherheit | Flūela Solutions</title>
-    <link>http://localhost:38577/tag/sicherheit/</link>
-      <atom:link href="http://localhost:38577/tag/sicherheit/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:39645/tag/sicherheit/</link>
+      <atom:link href="http://localhost:39645/tag/sicherheit/index.xml" rel="self" type="application/rss+xml" />
     <description>Sicherheit</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:38577/media/logo.svg</url>
+      <url>http://localhost:39645/media/logo.svg</url>
       <title>Sicherheit</title>
-      <link>http://localhost:38577/tag/sicherheit/</link>
+      <link>http://localhost:39645/tag/sicherheit/</link>
     </image>
     
     <item>
       <title>Cyber Resilience Act</title>
-      <link>http://localhost:38577/blog/cyber-resilience-act/</link>
+      <link>http://localhost:39645/blog/cyber-resilience-act/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:38577/blog/cyber-resilience-act/</guid>
+      <guid>http://localhost:39645/blog/cyber-resilience-act/</guid>
       <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; wurde bereits vom EU Parlement verabschiedet und wird nach formeller Verabschiedung im EU Rat höchstwarscheinlich in den nächsten Wochen in Kraft treten. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
 &lt;h2 id=&#34;ist-mein-produkt-betroffen&#34;&gt;Ist mein Produkt betroffen?&lt;/h2&gt;
 &lt;p&gt;Betroffen sind digitale Produkte &amp;ndash; sprich Produkte mit Hardware und/oder Software Komponenten &amp;ndash; welche grundsätzlich eine Kommunikationsschnittstelle (mit Steckverbindung, Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen, sind:&lt;/p&gt;

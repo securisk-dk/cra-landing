@@ -1,13 +1,13 @@
 ---
 # Display name
-title: AD Solutions
+title: flūela solutions 
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: AD  
-last_name: Solutions
+first_name: flūela   
+last_name: solutions
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Co-Founder
+role: Company
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: AD Solution
-    url: www.ad-solutions.de
+  - name: flūela solutions
+    url: www.fuela-solutions.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
