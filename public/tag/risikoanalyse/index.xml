@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Risikoanalyse | Flūela Solutions</title>
-    <link>http://localhost:34341/tag/risikoanalyse/</link>
-      <atom:link href="http://localhost:34341/tag/risikoanalyse/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/risikoanalyse/</link>
+      <atom:link href="http://localhost:1313/tag/risikoanalyse/index.xml" rel="self" type="application/rss+xml" />
     <description>Risikoanalyse</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:34341/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Risikoanalyse</title>
-      <link>http://localhost:34341/tag/risikoanalyse/</link>
+      <link>http://localhost:1313/tag/risikoanalyse/</link>
     </image>
     
     <item>
       <title>Wie können die IT-Sicherheitsrisiken meines Produkts systematisch aufgezeigt werden? Eine Einführung.</title>
-      <link>http://localhost:34341/blog/riskanalysis/</link>
+      <link>http://localhost:1313/blog/riskanalysis/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34341/blog/riskanalysis/</guid>
+      <guid>http://localhost:1313/blog/riskanalysis/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Risko = Impact x Probability&lt;/li&gt;
 &lt;li&gt;Was für Impact Klassen gibt es bzgl. Security?&lt;/li&gt;

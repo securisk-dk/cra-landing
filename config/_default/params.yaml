@@ -47,9 +47,12 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: ''
 
 # Localization
 locale:
   date_format: '2. January 2006'
   time_format: '15:04'
+
+features:
+

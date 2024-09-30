@@ -2,33 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home | Flūela Solutions</title>
-    <link>http://localhost:34341/</link>
-      <atom:link href="http://localhost:34341/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:34341/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Home</title>
-      <link>http://localhost:34341/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;h3 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h3&gt;
+&lt;h4 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h4&gt;
+&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.&lt;/p&gt;
+&lt;h4 id=&#34;datenerfassung-auf-unserer-website&#34;&gt;Datenerfassung auf unserer Website&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/strong&gt;&lt;br&gt;
+Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wie erfassen wir Ihre Daten?&lt;/strong&gt;&lt;br&gt;
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben. Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wofür nutzen wir Ihre Daten?&lt;/strong&gt;&lt;br&gt;
+Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Welche Rechte haben Sie bezüglich Ihrer Daten?&lt;/strong&gt;&lt;br&gt;
+Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.&lt;/p&gt;
+&lt;h3 id=&#34;2-allgemeine-hinweise-und-pflichtinformationen&#34;&gt;2. Allgemeine Hinweise und Pflichtinformationen&lt;/h3&gt;
+&lt;h4 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h4&gt;
+&lt;p&gt;Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.&lt;/p&gt;
+&lt;p&gt;Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Diese Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.&lt;/p&gt;
+&lt;p&gt;Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;/p&gt;
+&lt;h4 id=&#34;hinweis-zur-verantwortlichen-stelle&#34;&gt;Hinweis zur verantwortlichen Stelle&lt;/h4&gt;
+&lt;p&gt;Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:&lt;/p&gt;
+&lt;p&gt;David Knichel&lt;br&gt;
+Waldstr. 57&lt;br&gt;
+45525 Hattingen&lt;/p&gt;
+&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:securisk-dk@gmail.com&#34;&gt;securisk-dk@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.&lt;/p&gt;
+&lt;h4 id=&#34;widerruf-ihrer-einwilligung-zur-datenverarbeitung&#34;&gt;Widerruf Ihrer Einwilligung zur Datenverarbeitung&lt;/h4&gt;
+&lt;p&gt;Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.&lt;/p&gt;
+&lt;h4 id=&#34;beschwerderecht-bei-der-zuständigen-aufsichtsbehörde&#34;&gt;Beschwerderecht bei der zuständigen Aufsichtsbehörde&lt;/h4&gt;
+&lt;p&gt;Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat. Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen werden: &lt;a href=&#34;https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;recht-auf-datenübertragbarkeit&#34;&gt;Recht auf Datenübertragbarkeit&lt;/h4&gt;
+&lt;p&gt;Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.&lt;/p&gt;
+&lt;h4 id=&#34;ssl--bzw-tls-verschlüsselung&#34;&gt;SSL- bzw. TLS-Verschlüsselung&lt;/h4&gt;
+&lt;p&gt;Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von &amp;ldquo;http://&amp;rdquo; auf &amp;ldquo;https://&amp;rdquo; wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.&lt;/p&gt;
+&lt;p&gt;Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.&lt;/p&gt;
+&lt;h4 id=&#34;auskunft-sperrung-löschung&#34;&gt;Auskunft, Sperrung, Löschung&lt;/h4&gt;
+&lt;p&gt;Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.&lt;/p&gt;
+&lt;h4 id=&#34;widerspruch-gegen-werbe-e-mails&#34;&gt;Widerspruch gegen Werbe-E-Mails&lt;/h4&gt;
+&lt;p&gt;Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.&lt;/p&gt;
+&lt;h3 id=&#34;3-datenerfassung-auf-unserer-website&#34;&gt;3. Datenerfassung auf unserer Website&lt;/h3&gt;
+&lt;h4 id=&#34;cookies&#34;&gt;Cookies&lt;/h4&gt;
+&lt;p&gt;Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.&lt;/p&gt;
+&lt;p&gt;Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.&lt;/p&gt;
+&lt;p&gt;Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.&lt;/p&gt;
+&lt;p&gt;Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z.B. Warenkorbfunktion) erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Soweit andere Cookies (z.B. Cookies zur Analyse Ihres Surfverhaltens) gespeichert werden, werden diese in dieser Datenschutzerklärung gesondert behandelt.&lt;/p&gt;
+&lt;h4 id=&#34;server-log-dateien&#34;&gt;Server-Log-Dateien&lt;/h4&gt;
+&lt;p&gt;Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Browsertyp und Browserversion&lt;/li&gt;
+&lt;li&gt;verwendetes Betriebssystem&lt;/li&gt;
+&lt;li&gt;Referrer-URL&lt;/li&gt;
+&lt;li&gt;Hostname des zugreifenden Rechners&lt;/li&gt;
+&lt;li&gt;Uhrzeit der Serveranfrage&lt;/li&gt;
+&lt;li&gt;IP-Adresse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.&lt;/p&gt;
+&lt;p&gt;Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.&lt;/p&gt;
+&lt;h4 id=&#34;kontaktformular&#34;&gt;Kontaktformular&lt;/h4&gt;
+&lt;p&gt;Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.&lt;/p&gt;
+&lt;p&gt;Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt somit ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.&lt;/p&gt;
+&lt;p&gt;Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Der Cyber Resilience Act - Die EU verpflichtet Hersteller digitaler Produkte zu IT-Sicherheit und Risikobewertung</title>
-      <link>http://localhost:34341/blog/cyber-resilience-act/</link>
+      <link>http://localhost:1313/blog/cyber-resilience-act/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34341/blog/cyber-resilience-act/</guid>
+      <guid>http://localhost:1313/blog/cyber-resilience-act/</guid>
       <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; wurde bereits vom EU Parlement verabschiedet und wird nach formeller Bestätigung des EU Rates höchstwarscheinlich in den nächsten Wochen final beschlossen. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
 &lt;h2 id=&#34;ist-mein-produkt-betroffen&#34;&gt;Ist mein Produkt betroffen?&lt;/h2&gt;
-&lt;p&gt;Der Cyber Resilience Act (CRA) richtet sich an Hersteller von Produkten mit digitalen Elementen, die in der Europäischen Union in Verkehr gebracht werden.
-Betroffen sind digitale Produkte &amp;ndash; sprich Produkte mit Hardware und/oder Software Komponenten &amp;ndash; welche grundsätzlich eine Kommunikationsschnittstelle (mit Steckverbindung, Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen, sind:&lt;/p&gt;
+&lt;p&gt;Der Cyber Resilience Act (CRA) richtet sich an Hersteller von Produkten mit digitalen Elementen, die in der Europäischen Union in Verkehr gebracht werden.&lt;/p&gt;
+&lt;p&gt;Betroffen sind digitale Produkte – also Produkte mit Hardware- und/oder Softwarekomponenten – die über eine Kommunikationsschnittstelle (ob per Stecker, Kabel oder kabellos) mit der Außenwelt verbunden sind. Ausgenommen sind medizinische Produkte sowie Produkte für den motorisierten Personentransport, da diese unter separate, eigenständige Regulierungen fallen. Beispiele für Produkte, die unter den neuen CRA fallen, sind:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Smart Home Produkte&lt;/li&gt;
-&lt;li&gt;Spielzeug mit Stimmaufnahme und Verarbeitung&lt;/li&gt;
+&lt;li&gt;Smart-Home-Produkte&lt;/li&gt;
+&lt;li&gt;Spielzeug mit Sprachaufnahme und -verarbeitung&lt;/li&gt;
 &lt;li&gt;Ferngesteuerte Spielzeuge&lt;/li&gt;
-&lt;li&gt;Smarte Hygiene Produkte&lt;/li&gt;
+&lt;li&gt;Smarte Hygieneprodukte&lt;/li&gt;
 &lt;li&gt;Smarte Audiosysteme&lt;/li&gt;
-&lt;li&gt;Industriesteuerung&lt;/li&gt;
-&lt;li&gt;Automatisierungsgeräte (z.B. Roboterarme)&lt;/li&gt;
+&lt;li&gt;Industriesteuerungen&lt;/li&gt;
+&lt;li&gt;Automatisierungsgeräte (z. B. Roboterarme)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;was-passiert-bei-nicht-erfüllung-des-cyber-resilience-acts-cra-wie-hoch-können-die-strafen-ausfallen&#34;&gt;Was passiert bei Nicht-Erfüllung des Cyber Resilience Acts (CRA)? Wie hoch können die Strafen ausfallen?&lt;/h2&gt;
 &lt;p&gt;Die Nichteinhaltung des Cyber Resilience Acts (CRA) kann für Unternehmen schwerwiegende rechtliche und finanzielle Konsequenzen haben. Hier sind die möglichen Folgen und Strafen, die bei einer Nicht-Erfüllung des CRA drohen:&lt;/p&gt;
@@ -43,35 +110,36 @@ Betroffen sind digitale Produkte &amp;ndash; sprich Produkte mit Hardware und/od
 &lt;p&gt;Unternehmen, die den CRA nicht erfüllen, können zudem mit Schadenersatzforderungen von Nutzern oder anderen betroffenen Parteien konfrontiert werden. Diese Ansprüche könnten sich aus Sicherheitsvorfällen ergeben, die auf eine Nichteinhaltung der Verordnung zurückzuführen sind.&lt;/p&gt;
 &lt;h3 id=&#34;reputationsschaden&#34;&gt;&lt;strong&gt;Reputationsschaden&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Neben den finanziellen Strafen kann die Nichteinhaltung des CRA zu erheblichen Reputationsschäden führen. Dies kann langfristig negative Auswirkungen auf das Vertrauen der Kunden und Partner sowie die Marktposition des Unternehmens haben.&lt;/p&gt;
-&lt;p&gt;Die Nichteinhaltung des Cyber Resilience Acts kann zu sehr hohen Bußgeldern, Vertriebsverboten, Produktrückrufen und möglichen Schadenersatzforderungen führen. Unternehmen sollten daher sicherstellen, dass ihre Produkte mit digitalen Elementen den Anforderungen des CRA entsprechen, um rechtliche und finanzielle Risiken zu vermeiden. Da die Regularien Fachwissen bzgl. IT-Sicherheit voraussetzen und die Maßnahmen je nach Produkt sehr umfangreich sein können, empehlen wir Ihnen, sich schon jetzt mit dem CRA auseinanderzusetzen und damit zu beginnen, die Maßnahmen und erforderliche Dokumente umzusetzen. &lt;a href=&#34;mailto::securisk-dk@gmail.com&#34;&gt;Falls Sie Hilfe dabei brauchen, helfen wir ihnen dabei gerne.&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;wann-tritt-der-cyber-resiliance-act-in-kraft&#34;&gt;Wann tritt der Cyber Resiliance Act in Kraft?&lt;/h2&gt;
-&lt;p&gt;Dass der CRA demnächste in Kraft tritt, ist sicher. Wann dies der Fall sein wird, ist noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU Rat den CRA in den nächsten Wochen final unterzeichnen wird und er dann in Kraft tritt.&lt;/p&gt;
-&lt;p&gt;Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen während des kompletten Produktzyklus handelt und IT-Sicherheit schon während der Entwicklung mit einbezogen werden muss, sollten Herrsteller jedoch baldig beginnen, die Maßnahmen in ihre Prozesse und Produkte zu integrieren.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Die Nichteinhaltung des Cyber Resilience Acts kann zu sehr hohen Bußgeldern, Vertriebsverboten, Produktrückrufen und möglichen Schadenersatzforderungen führen. Unternehmen sollten daher sicherstellen, dass ihre Produkte mit digitalen Elementen den Anforderungen des CRA entsprechen, um rechtliche und finanzielle Risiken zu vermeiden. Da die Regulierungen Fachwissen in der IT-Sicherheit voraussetzen und die Maßnahmen je nach Produkt sehr umfangreich sein können, empfehlen wir Ihnen, sich schon jetzt mit dem CRA auseinanderzusetzen und die erforderlichen Maßnahmen und Dokumente umzusetzen. &lt;a href=&#34;mailto:securisk-dk@gmail.com&#34;&gt;Falls Sie Hilfe benötigen, unterstützen wir Sie gerne.&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;wann-tritt-der-cyber-resilience-act-in-kraft&#34;&gt;Wann tritt der Cyber Resilience Act in Kraft?&lt;/h2&gt;
+&lt;p&gt;Dass der CRA demnächst in Kraft tritt, ist sicher. Der genaue Zeitpunkt ist jedoch noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU-Rat den CRA in den nächsten Wochen final unterzeichnen wird und er dann in Kraft tritt.&lt;/p&gt;
+&lt;p&gt;Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen über den gesamten Produktlebenszyklus handelt und IT-Sicherheit bereits in der Entwicklungsphase berücksichtigt werden muss, sollten Hersteller frühzeitig beginnen, diese Maßnahmen in ihre Prozesse und Produkte zu integrieren.&lt;/p&gt;
 &lt;h2 id=&#34;was-sind-meine-pflichten&#34;&gt;Was sind meine Pflichten?&lt;/h2&gt;
-&lt;p&gt;Der CRA nimmt Hersteller in die Pflicht, Cyber Security während des gesamten Produktzyklus zu betrachten. Die spezifischen Pflichten unterscheiden sich je nach Kategorisierung des Produktes. Hierbei gibt es folgene Hauptkategorisierung:&lt;/p&gt;
+&lt;p&gt;Der CRA verpflichtet Hersteller, Cybersicherheit während des gesamten Produktlebenszyklus zu berücksichtigen. Die spezifischen Pflichten unterscheiden sich je nach Kategorisierung des Produkts. Hierbei gibt es folgende Hauptkategorien:&lt;/p&gt;
 &lt;h3 id=&#34;produkte-mit-digitalen-elementen&#34;&gt;Produkte mit digitalen Elementen&lt;/h3&gt;
-&lt;p&gt;Grundlegend müssen für Produkte mit digitalen Elementen die im Anhang I Kapitel 1 definierten Maßnahmen umgesetzt werden. Wir wollen hier einen kurzen Überblick über die wichtigsten Maßnamen geben.&lt;/p&gt;
+&lt;p&gt;Grundsätzlich müssen für Produkte mit digitalen Elementen die im Anhang I, Kapitel 1 definierten Maßnahmen umgesetzt werden. Im Folgenden geben wir einen kurzen Überblick über die wichtigsten Maßnahmen.&lt;/p&gt;
 &lt;h4 id=&#34;sicherheitsanforderungen&#34;&gt;Sicherheitsanforderungen&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Security by Design:&lt;/strong&gt; Produkte mit digitalen Elementen werden so konzipiert, entwickelt und ergestellt, dass sie angesichts der Risiken ein angemessenes Sicherheitsniveau gewährleisten.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Keine bekannten Schwachstellen:&lt;/strong&gt; Produkte mit digitalen Elementen werden ohne bekannte ausnutzbare Schwachstellen ausgeliefert.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risikobewertung als Teil der Dokumentation:&lt;/strong&gt; Auf der Grundlage einer Risikobewertung muss das Risiko bezüglich der Schutziele (Vertraulichkeit, Integrität und Authentizität) minimiert werden, um Sicherheit und Privatsphäre angemessen zu schützen. Hierzu werden konkrete Vorgaben gemacht, wie &lt;em&gt;Minimalisierung der Datenmengen&lt;/em&gt;, &lt;em&gt;Monitoring&lt;/em&gt;, und &lt;em&gt;Einfache Updatebarkeit&lt;/em&gt;. Diese müssen von Herstellern bestrachtet und umgesetzt werden. Diese Risikobewertung muss insbesondere der technischen Dokumentation beigefügt werden.&lt;/p&gt;
-&lt;p&gt;Wir helfen Ihnen gerne bei der Umsetzung der Sicherheitsanforderungen.
-&lt;a href=&#34;mailto::securisk-dk@gmail.com&#34;&gt;Kontaktieren Sie uns einfach und unverbindlich.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Security by Design:&lt;/strong&gt; Produkte mit digitalen Elementen müssen so konzipiert, entwickelt und hergestellt werden, dass sie angesichts der Risiken ein angemessenes Sicherheitsniveau gewährleisten.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keine bekannten Schwachstellen:&lt;/strong&gt; Produkte mit digitalen Elementen dürfen keine bekannten, ausnutzbaren Schwachstellen enthalten.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risikobewertung als Teil der Dokumentation:&lt;/strong&gt; Auf Grundlage einer Risikobewertung müssen Risiken bezüglich der Schutzziele (Vertraulichkeit, Integrität und Authentizität) minimiert werden, um Sicherheit und Privatsphäre angemessen zu schützen. Konkrete Vorgaben wie &lt;em&gt;Datenminimierung&lt;/em&gt;, &lt;em&gt;Monitoring&lt;/em&gt; und &lt;em&gt;einfache Updatefähigkeit&lt;/em&gt; müssen von den Herstellern berücksichtigt und umgesetzt werden. Diese Risikobewertung muss der technischen Dokumentation beigefügt werden.&lt;/p&gt;
+&lt;p&gt;Wir unterstützen Sie gerne bei der Umsetzung der Sicherheitsanforderungen.&lt;br&gt;
+&lt;a href=&#34;mailto:securisk-dk@gmail.com&#34;&gt;Kontaktieren Sie uns einfach und unverbindlich.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;anforderungen-an-die-behandlung-von-schwachstellen&#34;&gt;Anforderungen an die Behandlung von Schwachstellen&lt;/h4&gt;
-&lt;p&gt;Der CRA verpflichtet Hersteller zu einer umfangreichen Behandlung von identifizierten Schwachstellen:&lt;/p&gt;
+&lt;p&gt;Der CRA verpflichtet Hersteller zu einer umfassenden Behandlung identifizierter Schwachstellen:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Erkennung und Dokumentation:&lt;/strong&gt; Hersteller müssen Schwachstellen und Produktkomponenten identifizieren und dokumentieren, einschließlich einer Software-Stückliste.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Schnelle Behebung:&lt;/strong&gt; Schwachstellen müssen unverzüglich behoben werden, zum Beispiel durch Sicherheitsupdates.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Regelmäßige Überprüfung:&lt;/strong&gt; Die Sicherheit des Produkts muss regelmäßig getestet und überprüft werden.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Veröffentlichung von Informationen:&lt;/strong&gt; Nach einem Update müssen Informationen über die behobenen Schwachstellen veröffentlicht werden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Koordinierte Offenlegung:&lt;/strong&gt; Es muss eine Strategie zur koordinierten Offenlegung von Schwachstellen geben.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Koordinierte Offenlegung:&lt;/strong&gt; Es muss eine Strategie zur koordinierten Offenlegung von Schwachstellen existieren.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sicherer Update-Mechanismus:&lt;/strong&gt; Updates müssen sicher verbreitet werden, um Schwachstellen zeitnah zu beheben.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kostenlose Bereitstellung von Sicherheits-Patches:&lt;/strong&gt; Sicherheits-Patches müssen unverzüglich und kostenlos bereitgestellt werden.&lt;/p&gt;
 &lt;h3 id=&#34;kritische-produkte-mit-digitalen-elementen&#34;&gt;Kritische Produkte mit digitalen Elementen&lt;/h3&gt;
-&lt;p&gt;Im CRA ist eine Unterkategorie der Produkte mit digitalen Elementen definiert: &lt;em&gt;Kritische&lt;/em&gt; Produkte mit digitalen Elementen. Im Anhang III der CRA sind Kernfunktionalitäten aufgelistet. Produkte, welche diese Funktionalitäten beinhalten gehen mit intensiveren Pflichten einher - wobei Klasse II noch einmal umfangreicher gehandhabt werden muss als Klasse I. Dies geht einfach mit einem erhöhten Sicherheitsrisiko dieser Proudukte einher.&lt;/p&gt;
+&lt;p&gt;Der CRA definiert eine spezielle Unterkategorie für &lt;em&gt;kritische&lt;/em&gt; Produkte mit digitalen Elementen. Im Anhang III des CRA sind Kernfunktionalitäten aufgeführt, die solche Produkte charakterisieren. Produkte, die diese Funktionalitäten erfüllen, unterliegen strengeren Anforderungen. Klasse II wird dabei noch intensiver geprüft als Klasse I, da diese Produkte ein höheres Sicherheitsrisiko darstellen.&lt;/p&gt;
 &lt;h4 id=&#34;klasse-i&#34;&gt;Klasse I&lt;/h4&gt;
-&lt;p&gt;Klasse I umfasst Produkte, die eine wesentliche Rolle in der Cybersicherheit spielen, aber nicht zu den höchstkritischen Systemen zählen. Dazu gehören unter anderem:&lt;/p&gt;
+&lt;p&gt;Zu Klasse I gehören Produkte, die eine wesentliche Rolle in der Cybersicherheit spielen, jedoch nicht zu den höchstkritischen Systemen zählen. Beispiele für solche Produkte sind:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Software für Identitätsmanagement und Verwaltung privilegierten Zugriffs&lt;/li&gt;
+&lt;li&gt;Software für Identitätsmanagement und Verwaltung privilegierter Zugriffsrechte&lt;/li&gt;
 &lt;li&gt;Passwort-Manager&lt;/li&gt;
 &lt;li&gt;Firewalls und Angriffserkennungssysteme, die nicht zur Klasse II gehören&lt;/li&gt;
 &lt;li&gt;Betriebssysteme, die nicht zur Klasse II gehören&lt;/li&gt;
@@ -79,29 +147,35 @@ Betroffen sind digitale Produkte &amp;ndash; sprich Produkte mit Hardware und/od
 &lt;li&gt;Mikroprozessoren, die nicht zur Klasse II gehören&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;klasse-ii&#34;&gt;Klasse II&lt;/h4&gt;
-&lt;p&gt;Diese Klasse beinhaltet Produkte, die in besonders kritischen Infrastrukturen verwendet werden oder eine sehr hohe Sicherheitsrelevanz haben. Beispiele hierfür sind:&lt;/p&gt;
+&lt;p&gt;Produkte der Klasse II werden in besonders kritischen Infrastrukturen eingesetzt oder haben eine sehr hohe Sicherheitsrelevanz. Beispiele hierfür sind:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Betriebssysteme für Server, Desktops und Mobilgeräte&lt;/li&gt;
+&lt;li&gt;Betriebssysteme für Server, Desktops und mobile Geräte&lt;/li&gt;
 &lt;li&gt;Firewalls und Angriffserkennungssysteme für den industriellen Einsatz&lt;/li&gt;
 &lt;li&gt;Hardware-Sicherheitsmodule (HSM)&lt;/li&gt;
 &lt;li&gt;Sichere Kryptoprozessoren&lt;/li&gt;
-&lt;li&gt;Industrielle Automatisierungs- und Steuerungssysteme, die für wesentliche Einrichtungen bestimmt sind&lt;/li&gt;
+&lt;li&gt;Industrielle Automatisierungs- und Steuerungssysteme für wesentliche Einrichtungen&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Kritische&lt;/em&gt; Produkte mit digitalen Elementen (Klasse I + II) gehen grundsetzlich mit einer strengeren Konformitätsprüfung einher, d.h. mit einem strengeren Assessment, inwiefern der CRA erfüllt wird.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kritische&lt;/em&gt; Produkte mit digitalen Elementen (sowohl Klasse I als auch Klasse II) unterliegen grundsätzlich einer strengeren Konformitätsprüfung. Diese umfasst eine intensivere Bewertung der Einhaltung des CRA.&lt;/p&gt;
 &lt;h2 id=&#34;wie-wird-mein-produkt-überprüft&#34;&gt;Wie wird mein Produkt überprüft?&lt;/h2&gt;
-&lt;p&gt;Das Konformitätsassessment im Rahmen des Cyber Resilience Acts variiert je nach Art des Produkts und dessen Klassifizierung. Wir geben hier ein Überblick darüber, wie das Verfahren für die drei genannten Kategorien  grob aussieht:&lt;/p&gt;
+&lt;p&gt;Das Konformitätsbewertungsverfahren im Rahmen des Cyber Resilience Acts hängt von der Art und Klassifizierung des Produkts ab. Hier ein Überblick, wie das Verfahren für die drei Kategorien grundsätzlich abläuft:&lt;/p&gt;
 &lt;h3 id=&#34;produkte-mit-digitalen-elementen-1&#34;&gt;Produkte mit digitalen Elementen&lt;/h3&gt;
-&lt;p&gt;Für allgemeine Produkte mit digitalen Elementen, die nicht als kritisch eingestuft werden, gibt es in der Regel ein einfacheres Konformitätsbewertungsverfahren (die Module sind in Anhang IV des CRA):&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Interne Kontrolle (Modul A)&lt;/strong&gt;: Der Hersteller übernimmt selbst die Verantwortung für die Einhaltung der grundlegenden Sicherheitsanforderungen. Der Hersteller erstellt die technische Dokumentation, führt interne Tests durch und bringt die CE-Kennzeichnung an. Es ist keine externe Überprüfung durch eine benannte Stelle erforderlich, es sei denn, der Hersteller entscheidet sich freiwillig für eine solche Überprüfung.&lt;/p&gt;
+&lt;p&gt;Für Produkte, die nicht als kritisch eingestuft sind, wird in der Regel ein einfacheres Konformitätsbewertungsverfahren angewendet. Die entsprechenden Module sind in Anhang IV des CRA definiert:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interne Kontrolle (Modul A):&lt;/strong&gt;&lt;br&gt;
+Der Hersteller trägt selbst die Verantwortung dafür, dass die grundlegenden Sicherheitsanforderungen eingehalten werden. Er erstellt die technische Dokumentation, führt interne Tests durch und bringt die CE-Kennzeichnung an. Eine externe Prüfung durch eine benannte Stelle ist nicht erforderlich, es sei denn, der Hersteller entscheidet sich freiwillig dafür.&lt;/p&gt;
 &lt;h3 id=&#34;kritische-produkte-mit-digitalen-elementen-der-klasse-i&#34;&gt;Kritische Produkte mit digitalen Elementen der Klasse I&lt;/h3&gt;
-&lt;p&gt;Für kritische Produkte der Klasse I gelten strengere Anforderungen:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Interne Kontrolle (Modul A)&lt;/strong&gt;: Ähnlich wie bei allgemeinen Produkten können Hersteller die Einhaltung der Anforderungen selbst überprüfen und dokumentieren. Zusätzlich zu Modul A können Hersteller auch eine EU-Baumusterprüfung (Modul B) durch eine benannte Stelle durchführen lassen, wenn sie dies als notwendig erachten. Es wird jedoch erwartet, dass das Produkt eine gründliche Risikobewertung durchläuft und die Konformität mit den relevanten Sicherheitsstandards streng überwacht wird.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Konformität mit dem Baumuster auf Grundlage interner Fertigungskontrolle (Modul C)&lt;/strong&gt;: Nach erfolgreicher EU-Baumusterprüfung muss der Hersteller sicherstellen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen.&lt;/p&gt;
+&lt;p&gt;Für kritische Produkte der Klasse I gelten strengere Vorschriften:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interne Kontrolle (Modul A):&lt;/strong&gt;&lt;br&gt;
+Ähnlich wie bei allgemeinen Produkten kann der Hersteller die Einhaltung der Anforderungen selbst überprüfen und dokumentieren. Zusätzlich zu Modul A kann eine EU-Baumusterprüfung (Modul B) durch eine benannte Stelle erfolgen, wenn dies als notwendig erachtet wird. Es wird jedoch erwartet, dass das Produkt eine gründliche Risikobewertung durchläuft und die Konformität mit den relevanten Sicherheitsstandards streng überwacht wird.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Konformität mit dem Baumuster (Modul C):&lt;/strong&gt;&lt;br&gt;
+Nach erfolgreicher EU-Baumusterprüfung muss der Hersteller sicherstellen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen.&lt;/p&gt;
 &lt;h3 id=&#34;kritische-produkte-mit-digitalen-elementen-der-klasse-ii&#34;&gt;Kritische Produkte mit digitalen Elementen der Klasse II&lt;/h3&gt;
-&lt;p&gt;Kritische Produkte der Klasse II unterliegen den strengsten Anforderungen, da sie besonders sicherheitsrelevant sind:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EU-Baumusterprüfung (Modul B)&lt;/strong&gt;: Eine benannte Stelle prüft die technische Dokumentation, die Risikobewertung und führt Tests durch, um sicherzustellen, dass das Produkt die Anforderungen erfüllt. Nach bestandener Prüfung wird eine EU-Baumusterprüfbescheinigung ausgestellt.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Konformität mit dem Baumuster auf Grundlage interner Fertigungskontrolle (Modul C)&lt;/strong&gt;: Der Hersteller muss sicherstellen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen und dies durch entsprechende Dokumentation nachweisen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Umfassende Qualitätssicherung (Modul H)&lt;/strong&gt;: Für besonders kritische Produkte kann ein umfassendes Qualitätssicherungssystem erforderlich sein. Dieses System wird von einer benannten Stelle überprüft und deckt den gesamten Lebenszyklus des Produkts ab, einschließlich Konzeption, Entwicklung, Herstellung und Schwachstellenmanagement.&lt;/p&gt;
+&lt;p&gt;Kritische Produkte der Klasse II unterliegen den strengsten Anforderungen:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EU-Baumusterprüfung (Modul B):&lt;/strong&gt;&lt;br&gt;
+Eine benannte Stelle prüft die technische Dokumentation, bewertet die Risiken und führt Tests durch, um sicherzustellen, dass das Produkt die Anforderungen erfüllt. Nach bestandener Prüfung wird eine EU-Baumusterprüfbescheinigung ausgestellt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Konformität mit dem Baumuster (Modul C):&lt;/strong&gt;&lt;br&gt;
+Der Hersteller muss nachweisen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen und dies durch entsprechende Dokumentation belegen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Umfassende Qualitätssicherung (Modul H):&lt;/strong&gt;&lt;br&gt;
+Für besonders kritische Produkte kann es erforderlich sein, ein umfassendes Qualitätssicherungssystem zu implementieren. Dieses wird von einer benannten Stelle geprüft und muss den gesamten Lebenszyklus des Produkts abdecken – von der Konzeption über die Entwicklung und Herstellung bis hin zum Schwachstellenmanagement.&lt;/p&gt;
 &lt;!-- Hugo Blox supports a Markdown extension for mindmaps.
 
 Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
@@ -184,9 +258,9 @@ renders as
     
     <item>
       <title>Wie können die IT-Sicherheitsrisiken meines Produkts systematisch aufgezeigt werden? Eine Einführung.</title>
-      <link>http://localhost:34341/blog/riskanalysis/</link>
+      <link>http://localhost:1313/blog/riskanalysis/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34341/blog/riskanalysis/</guid>
+      <guid>http://localhost:1313/blog/riskanalysis/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Risko = Impact x Probability&lt;/li&gt;
 &lt;li&gt;Was für Impact Klassen gibt es bzgl. Security?&lt;/li&gt;
@@ -197,20 +271,31 @@ renders as
     </item>
     
     <item>
-      <title>Privacy</title>
-      <link>http://localhost:34341/privacy/</link>
+      <title>Impressum</title>
+      <link>http://localhost:1313/terms/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34341/privacy/</guid>
-      <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:34341/terms/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34341/terms/</guid>
-      <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
+      <guid>http://localhost:1313/terms/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dr. David Knichel&lt;br&gt;
+Waldstr. 57&lt;br&gt;
+45525 Hattingen&lt;/p&gt;
+&lt;h3 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h3&gt;
+&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:securisk-dk@gmail.com&#34;&gt;securisk-dk@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;verantwortlich-für-den-inhalt-nach--55-abs-2-rstv&#34;&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:&lt;/h3&gt;
+&lt;p&gt;David Knichel&lt;br&gt;
+Waldstr. 57&lt;br&gt;
+45525 Hattingen&lt;/p&gt;
+&lt;h3 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h3&gt;
+&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;/p&gt;
+&lt;p&gt;Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;haftung-für-links&#34;&gt;Haftung für Links&lt;/h3&gt;
+&lt;p&gt;Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.&lt;/p&gt;
+&lt;p&gt;Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h3&gt;
+&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.&lt;/p&gt;
+&lt;p&gt;Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;online-streitbeilegung&#34;&gt;Online-Streitbeilegung&lt;/h3&gt;
+&lt;p&gt;Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: &lt;a href=&#34;https://ec.europa.eu/consumers/odr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ec.europa.eu/consumers/odr&lt;/a&gt;. Unsere E-Mail-Adresse finden Sie oben im Impressum.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,6 +1,6 @@
 ---
 title: Der Cyber Resilience Act - Die EU verpflichtet Hersteller digitaler Produkte zu IT-Sicherheit und Risikobewertung 
-summary: Der vom EU Parlament verabschiedete Cyber Resilience Act verpflichtet Hersteller von digitalen Produkten zu intensiven IT-Sicherheitsmaßnamen und einer umfangreichen Dokumentation. Mit diesem Artikel möchten wir Ihnen die Möglichkeit geben zu überprüfen, ob Ihr Produkt vom Cyber Resilience Act betroffen ist und welchen Umfang dieser hat.
+summary: Der vom EU-Parlament verabschiedete Cyber Resilience Act verpflichtet Hersteller digitaler Produkte zu umfassenden IT-Sicherheitsmaßnahmen und einer detaillierten Dokumentation. Mit diesem Artikel möchten wir Ihnen die Möglichkeit bieten, zu überprüfen, ob Ihr Produkt vom Cyber Resilience Act betroffen ist und welchen Umfang die Regelungen haben.
 date: 2024-08-29
 authors:
   - admin
@@ -14,17 +14,17 @@ image:
 Der [Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) wurde bereits vom EU Parlement verabschiedet und wird nach formeller Bestätigung des EU Rates höchstwarscheinlich in den nächsten Wochen final beschlossen. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.
 
 ## Ist mein Produkt betroffen?
-Der Cyber Resilience Act (CRA) richtet sich an Hersteller von Produkten mit digitalen Elementen, die in der Europäischen Union in Verkehr gebracht werden. 
-Betroffen sind digitale Produkte -- sprich Produkte mit Hardware und/oder Software Komponenten -- welche grundsätzlich eine Kommunikationsschnittstelle (mit Steckverbindung, Kabel oder kabellos) nach Außen haben. Medizinische Produkte, genauso Produkte zum motorisierten Personentransport sind ausgeschlossen, weil diese unter seperaten, eigenständigen Regularien stehen. Beispiele für Produkte, welche unter den neuen CRA fallen, sind: 
+Der Cyber Resilience Act (CRA) richtet sich an Hersteller von Produkten mit digitalen Elementen, die in der Europäischen Union in Verkehr gebracht werden.
 
-- Smart Home Produkte 
-- Spielzeug mit Stimmaufnahme und Verarbeitung
+Betroffen sind digitale Produkte – also Produkte mit Hardware- und/oder Softwarekomponenten – die über eine Kommunikationsschnittstelle (ob per Stecker, Kabel oder kabellos) mit der Außenwelt verbunden sind. Ausgenommen sind medizinische Produkte sowie Produkte für den motorisierten Personentransport, da diese unter separate, eigenständige Regulierungen fallen. Beispiele für Produkte, die unter den neuen CRA fallen, sind:
+
+- Smart-Home-Produkte
+- Spielzeug mit Sprachaufnahme und -verarbeitung
 - Ferngesteuerte Spielzeuge
-- Smarte Hygiene Produkte
+- Smarte Hygieneprodukte
 - Smarte Audiosysteme
-- Industriesteuerung
-- Automatisierungsgeräte (z.B. Roboterarme)
-
+- Industriesteuerungen
+- Automatisierungsgeräte (z. B. Roboterarme)
 
 ## Was passiert bei Nicht-Erfüllung des Cyber Resilience Acts (CRA)? Wie hoch können die Strafen ausfallen?
 
@@ -52,41 +52,41 @@ Unternehmen, die den CRA nicht erfüllen, können zudem mit Schadenersatzforderu
 
 Neben den finanziellen Strafen kann die Nichteinhaltung des CRA zu erheblichen Reputationsschäden führen. Dies kann langfristig negative Auswirkungen auf das Vertrauen der Kunden und Partner sowie die Marktposition des Unternehmens haben.
 
+---
 
-Die Nichteinhaltung des Cyber Resilience Acts kann zu sehr hohen Bußgeldern, Vertriebsverboten, Produktrückrufen und möglichen Schadenersatzforderungen führen. Unternehmen sollten daher sicherstellen, dass ihre Produkte mit digitalen Elementen den Anforderungen des CRA entsprechen, um rechtliche und finanzielle Risiken zu vermeiden. Da die Regularien Fachwissen bzgl. IT-Sicherheit voraussetzen und die Maßnahmen je nach Produkt sehr umfangreich sein können, empehlen wir Ihnen, sich schon jetzt mit dem CRA auseinanderzusetzen und damit zu beginnen, die Maßnahmen und erforderliche Dokumente umzusetzen. [Falls Sie Hilfe dabei brauchen, helfen wir ihnen dabei gerne.](mailto::securisk-dk@gmail.com). 
+Die Nichteinhaltung des Cyber Resilience Acts kann zu sehr hohen Bußgeldern, Vertriebsverboten, Produktrückrufen und möglichen Schadenersatzforderungen führen. Unternehmen sollten daher sicherstellen, dass ihre Produkte mit digitalen Elementen den Anforderungen des CRA entsprechen, um rechtliche und finanzielle Risiken zu vermeiden. Da die Regulierungen Fachwissen in der IT-Sicherheit voraussetzen und die Maßnahmen je nach Produkt sehr umfangreich sein können, empfehlen wir Ihnen, sich schon jetzt mit dem CRA auseinanderzusetzen und die erforderlichen Maßnahmen und Dokumente umzusetzen. [Falls Sie Hilfe benötigen, unterstützen wir Sie gerne.](mailto:securisk-dk@gmail.com).
 
  
 
 
-## Wann tritt der Cyber Resiliance Act in Kraft?
+## Wann tritt der Cyber Resilience Act in Kraft?
 
-Dass der CRA demnächste in Kraft tritt, ist sicher. Wann dies der Fall sein wird, ist noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU Rat den CRA in den nächsten Wochen final unterzeichnen wird und er dann in Kraft tritt.
+Dass der CRA demnächst in Kraft tritt, ist sicher. Der genaue Zeitpunkt ist jedoch noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU-Rat den CRA in den nächsten Wochen final unterzeichnen wird und er dann in Kraft tritt.
 
-Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen während des kompletten Produktzyklus handelt und IT-Sicherheit schon während der Entwicklung mit einbezogen werden muss, sollten Herrsteller jedoch baldig beginnen, die Maßnahmen in ihre Prozesse und Produkte zu integrieren. 
-
+Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen über den gesamten Produktlebenszyklus handelt und IT-Sicherheit bereits in der Entwicklungsphase berücksichtigt werden muss, sollten Hersteller frühzeitig beginnen, diese Maßnahmen in ihre Prozesse und Produkte zu integrieren.
 
 ## Was sind meine Pflichten?
 
-Der CRA nimmt Hersteller in die Pflicht, Cyber Security während des gesamten Produktzyklus zu betrachten. Die spezifischen Pflichten unterscheiden sich je nach Kategorisierung des Produktes. Hierbei gibt es folgene Hauptkategorisierung:
+Der CRA verpflichtet Hersteller, Cybersicherheit während des gesamten Produktlebenszyklus zu berücksichtigen. Die spezifischen Pflichten unterscheiden sich je nach Kategorisierung des Produkts. Hierbei gibt es folgende Hauptkategorien:
 
 ### Produkte mit digitalen Elementen
 
-Grundlegend müssen für Produkte mit digitalen Elementen die im Anhang I Kapitel 1 definierten Maßnahmen umgesetzt werden. Wir wollen hier einen kurzen Überblick über die wichtigsten Maßnamen geben. 
+Grundsätzlich müssen für Produkte mit digitalen Elementen die im Anhang I, Kapitel 1 definierten Maßnahmen umgesetzt werden. Im Folgenden geben wir einen kurzen Überblick über die wichtigsten Maßnahmen.
 
 #### Sicherheitsanforderungen
 
-**Security by Design:** Produkte mit digitalen Elementen werden so konzipiert, entwickelt und ergestellt, dass sie angesichts der Risiken ein angemessenes Sicherheitsniveau gewährleisten.
+**Security by Design:** Produkte mit digitalen Elementen müssen so konzipiert, entwickelt und hergestellt werden, dass sie angesichts der Risiken ein angemessenes Sicherheitsniveau gewährleisten.
 
-**Keine bekannten Schwachstellen:** Produkte mit digitalen Elementen werden ohne bekannte ausnutzbare Schwachstellen ausgeliefert.
+**Keine bekannten Schwachstellen:** Produkte mit digitalen Elementen dürfen keine bekannten, ausnutzbaren Schwachstellen enthalten.
 
-**Risikobewertung als Teil der Dokumentation:** Auf der Grundlage einer Risikobewertung muss das Risiko bezüglich der Schutziele (Vertraulichkeit, Integrität und Authentizität) minimiert werden, um Sicherheit und Privatsphäre angemessen zu schützen. Hierzu werden konkrete Vorgaben gemacht, wie *Minimalisierung der Datenmengen*, *Monitoring*, und *Einfache Updatebarkeit*. Diese müssen von Herstellern bestrachtet und umgesetzt werden. Diese Risikobewertung muss insbesondere der technischen Dokumentation beigefügt werden.
+**Risikobewertung als Teil der Dokumentation:** Auf Grundlage einer Risikobewertung müssen Risiken bezüglich der Schutzziele (Vertraulichkeit, Integrität und Authentizität) minimiert werden, um Sicherheit und Privatsphäre angemessen zu schützen. Konkrete Vorgaben wie *Datenminimierung*, *Monitoring* und *einfache Updatefähigkeit* müssen von den Herstellern berücksichtigt und umgesetzt werden. Diese Risikobewertung muss der technischen Dokumentation beigefügt werden.
 
-Wir helfen Ihnen gerne bei der Umsetzung der Sicherheitsanforderungen. 
-[Kontaktieren Sie uns einfach und unverbindlich.](mailto::securisk-dk@gmail.com) 
+Wir unterstützen Sie gerne bei der Umsetzung der Sicherheitsanforderungen.  
+[Kontaktieren Sie uns einfach und unverbindlich.](mailto:securisk-dk@gmail.com)
 
 #### Anforderungen an die Behandlung von Schwachstellen
 
-Der CRA verpflichtet Hersteller zu einer umfangreichen Behandlung von identifizierten Schwachstellen: 
+Der CRA verpflichtet Hersteller zu einer umfassenden Behandlung identifizierter Schwachstellen:
 
 **Erkennung und Dokumentation:** Hersteller müssen Schwachstellen und Produktkomponenten identifizieren und dokumentieren, einschließlich einer Software-Stückliste.
 
@@ -96,70 +96,74 @@ Der CRA verpflichtet Hersteller zu einer umfangreichen Behandlung von identifizi
 
 **Veröffentlichung von Informationen:** Nach einem Update müssen Informationen über die behobenen Schwachstellen veröffentlicht werden.
 
-**Koordinierte Offenlegung:** Es muss eine Strategie zur koordinierten Offenlegung von Schwachstellen geben.
+**Koordinierte Offenlegung:** Es muss eine Strategie zur koordinierten Offenlegung von Schwachstellen existieren.
 
 **Sicherer Update-Mechanismus:** Updates müssen sicher verbreitet werden, um Schwachstellen zeitnah zu beheben.
 
 **Kostenlose Bereitstellung von Sicherheits-Patches:** Sicherheits-Patches müssen unverzüglich und kostenlos bereitgestellt werden.
 
 
-### Kritische Produkte mit digitalen Elementen 
-Im CRA ist eine Unterkategorie der Produkte mit digitalen Elementen definiert: *Kritische* Produkte mit digitalen Elementen. Im Anhang III der CRA sind Kernfunktionalitäten aufgelistet. Produkte, welche diese Funktionalitäten beinhalten gehen mit intensiveren Pflichten einher - wobei Klasse II noch einmal umfangreicher gehandhabt werden muss als Klasse I. Dies geht einfach mit einem erhöhten Sicherheitsrisiko dieser Proudukte einher.
+
+### Kritische Produkte mit digitalen Elementen
+
+Der CRA definiert eine spezielle Unterkategorie für *kritische* Produkte mit digitalen Elementen. Im Anhang III des CRA sind Kernfunktionalitäten aufgeführt, die solche Produkte charakterisieren. Produkte, die diese Funktionalitäten erfüllen, unterliegen strengeren Anforderungen. Klasse II wird dabei noch intensiver geprüft als Klasse I, da diese Produkte ein höheres Sicherheitsrisiko darstellen.
 
 #### Klasse I
 
-Klasse I umfasst Produkte, die eine wesentliche Rolle in der Cybersicherheit spielen, aber nicht zu den höchstkritischen Systemen zählen. Dazu gehören unter anderem:
+Zu Klasse I gehören Produkte, die eine wesentliche Rolle in der Cybersicherheit spielen, jedoch nicht zu den höchstkritischen Systemen zählen. Beispiele für solche Produkte sind:
 
-- Software für Identitätsmanagement und Verwaltung privilegierten Zugriffs
+- Software für Identitätsmanagement und Verwaltung privilegierter Zugriffsrechte
 - Passwort-Manager
 - Firewalls und Angriffserkennungssysteme, die nicht zur Klasse II gehören
 - Betriebssysteme, die nicht zur Klasse II gehören
 - Router und Modems für die Internetanbindung, die nicht zur Klasse II gehören
 - Mikroprozessoren, die nicht zur Klasse II gehören
 
-
-
- 
-
 #### Klasse II
 
-Diese Klasse beinhaltet Produkte, die in besonders kritischen Infrastrukturen verwendet werden oder eine sehr hohe Sicherheitsrelevanz haben. Beispiele hierfür sind:
+Produkte der Klasse II werden in besonders kritischen Infrastrukturen eingesetzt oder haben eine sehr hohe Sicherheitsrelevanz. Beispiele hierfür sind:
 
-- Betriebssysteme für Server, Desktops und Mobilgeräte
+- Betriebssysteme für Server, Desktops und mobile Geräte
 - Firewalls und Angriffserkennungssysteme für den industriellen Einsatz
 - Hardware-Sicherheitsmodule (HSM)
 - Sichere Kryptoprozessoren
-- Industrielle Automatisierungs- und Steuerungssysteme, die für wesentliche Einrichtungen bestimmt sind
+- Industrielle Automatisierungs- und Steuerungssysteme für wesentliche Einrichtungen
 
-*Kritische* Produkte mit digitalen Elementen (Klasse I + II) gehen grundsetzlich mit einer strengeren Konformitätsprüfung einher, d.h. mit einem strengeren Assessment, inwiefern der CRA erfüllt wird. 
-
+*Kritische* Produkte mit digitalen Elementen (sowohl Klasse I als auch Klasse II) unterliegen grundsätzlich einer strengeren Konformitätsprüfung. Diese umfasst eine intensivere Bewertung der Einhaltung des CRA.
 
 ## Wie wird mein Produkt überprüft?
 
-Das Konformitätsassessment im Rahmen des Cyber Resilience Acts variiert je nach Art des Produkts und dessen Klassifizierung. Wir geben hier ein Überblick darüber, wie das Verfahren für die drei genannten Kategorien  grob aussieht:
+Das Konformitätsbewertungsverfahren im Rahmen des Cyber Resilience Acts hängt von der Art und Klassifizierung des Produkts ab. Hier ein Überblick, wie das Verfahren für die drei Kategorien grundsätzlich abläuft:
 
 ### Produkte mit digitalen Elementen
-Für allgemeine Produkte mit digitalen Elementen, die nicht als kritisch eingestuft werden, gibt es in der Regel ein einfacheres Konformitätsbewertungsverfahren (die Module sind in Anhang IV des CRA): 
 
-**Interne Kontrolle (Modul A)**: Der Hersteller übernimmt selbst die Verantwortung für die Einhaltung der grundlegenden Sicherheitsanforderungen. Der Hersteller erstellt die technische Dokumentation, führt interne Tests durch und bringt die CE-Kennzeichnung an. Es ist keine externe Überprüfung durch eine benannte Stelle erforderlich, es sei denn, der Hersteller entscheidet sich freiwillig für eine solche Überprüfung.
+Für Produkte, die nicht als kritisch eingestuft sind, wird in der Regel ein einfacheres Konformitätsbewertungsverfahren angewendet. Die entsprechenden Module sind in Anhang IV des CRA definiert:
+
+**Interne Kontrolle (Modul A):**  
+Der Hersteller trägt selbst die Verantwortung dafür, dass die grundlegenden Sicherheitsanforderungen eingehalten werden. Er erstellt die technische Dokumentation, führt interne Tests durch und bringt die CE-Kennzeichnung an. Eine externe Prüfung durch eine benannte Stelle ist nicht erforderlich, es sei denn, der Hersteller entscheidet sich freiwillig dafür.
 
 ### Kritische Produkte mit digitalen Elementen der Klasse I
-Für kritische Produkte der Klasse I gelten strengere Anforderungen:
 
-**Interne Kontrolle (Modul A)**: Ähnlich wie bei allgemeinen Produkten können Hersteller die Einhaltung der Anforderungen selbst überprüfen und dokumentieren. Zusätzlich zu Modul A können Hersteller auch eine EU-Baumusterprüfung (Modul B) durch eine benannte Stelle durchführen lassen, wenn sie dies als notwendig erachten. Es wird jedoch erwartet, dass das Produkt eine gründliche Risikobewertung durchläuft und die Konformität mit den relevanten Sicherheitsstandards streng überwacht wird.
+Für kritische Produkte der Klasse I gelten strengere Vorschriften:
 
-**Konformität mit dem Baumuster auf Grundlage interner Fertigungskontrolle (Modul C)**: Nach erfolgreicher EU-Baumusterprüfung muss der Hersteller sicherstellen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen.
+**Interne Kontrolle (Modul A):**  
+Ähnlich wie bei allgemeinen Produkten kann der Hersteller die Einhaltung der Anforderungen selbst überprüfen und dokumentieren. Zusätzlich zu Modul A kann eine EU-Baumusterprüfung (Modul B) durch eine benannte Stelle erfolgen, wenn dies als notwendig erachtet wird. Es wird jedoch erwartet, dass das Produkt eine gründliche Risikobewertung durchläuft und die Konformität mit den relevanten Sicherheitsstandards streng überwacht wird.
+
+**Konformität mit dem Baumuster (Modul C):**  
+Nach erfolgreicher EU-Baumusterprüfung muss der Hersteller sicherstellen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen.
 
 ### Kritische Produkte mit digitalen Elementen der Klasse II
-Kritische Produkte der Klasse II unterliegen den strengsten Anforderungen, da sie besonders sicherheitsrelevant sind:
 
-**EU-Baumusterprüfung (Modul B)**: Eine benannte Stelle prüft die technische Dokumentation, die Risikobewertung und führt Tests durch, um sicherzustellen, dass das Produkt die Anforderungen erfüllt. Nach bestandener Prüfung wird eine EU-Baumusterprüfbescheinigung ausgestellt.
+Kritische Produkte der Klasse II unterliegen den strengsten Anforderungen:
 
-**Konformität mit dem Baumuster auf Grundlage interner Fertigungskontrolle (Modul C)**: Der Hersteller muss sicherstellen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen und dies durch entsprechende Dokumentation nachweisen.
+**EU-Baumusterprüfung (Modul B):**  
+Eine benannte Stelle prüft die technische Dokumentation, bewertet die Risiken und führt Tests durch, um sicherzustellen, dass das Produkt die Anforderungen erfüllt. Nach bestandener Prüfung wird eine EU-Baumusterprüfbescheinigung ausgestellt.
 
-**Umfassende Qualitätssicherung (Modul H)**: Für besonders kritische Produkte kann ein umfassendes Qualitätssicherungssystem erforderlich sein. Dieses System wird von einer benannten Stelle überprüft und deckt den gesamten Lebenszyklus des Produkts ab, einschließlich Konzeption, Entwicklung, Herstellung und Schwachstellenmanagement.
+**Konformität mit dem Baumuster (Modul C):**  
+Der Hersteller muss nachweisen, dass alle produzierten Einheiten dem geprüften Baumuster entsprechen und dies durch entsprechende Dokumentation belegen.
 
-
+**Umfassende Qualitätssicherung (Modul H):**  
+Für besonders kritische Produkte kann es erforderlich sein, ein umfassendes Qualitätssicherungssystem zu implementieren. Dieses wird von einer benannten Stelle geprüft und muss den gesamten Lebenszyklus des Produkts abdecken – von der Konzeption über die Entwicklung und Herstellung bis hin zum Schwachstellenmanagement.
 
 
 <!-- Hugo Blox supports a Markdown extension for mindmaps.

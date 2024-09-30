@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Co-Founder
+role: Founder
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 
     url: 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr.-Ing. David Knichel hat im Bereich der angewandten Kryptographie und Hardwaresicherheit promoviert und umfangreiche Industrieerfahrung im Gebiet der Sicherheit eingebetteter Systeme.
+bio: Dr.-Ing. David Knichel promovierte im Bereich der angewandten Kryptographie und Hardwaresicherheit und verfügt über umfassende Industrieerfahrung in der Sicherheit eingebetteter Systeme.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,12 +36,12 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/david-knichel-8a53941b3/
   # # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+  # - icon: academicons/cv
+  #   url: uploads/resume.pdf
+  #   label: Download my resume
   # - icon: rss
   #   url: ./post/index.xml
   #   label: Subscribe to my blog via RSS feed
@@ -53,4 +53,4 @@ highlight_name: true
 website: ""
 ---
 
-Dr.-Ing. David Knichel hat im Bereich der angewandten Kryptographie und Hardwaresicherheit promoviert und umfangreiche Industrieerfahrung im Gebiet der Sicherheit eingebetteter Systeme.
+Dr.-Ing. David Knichel promovierte im Bereich der angewandten Kryptographie und Hardwaresicherheit und verfügt über umfassende Industrieerfahrung in der Sicherheit eingebetteter Systeme.

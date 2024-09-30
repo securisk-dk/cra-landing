@@ -62,18 +62,18 @@ sections:
     id: solutions 
     content:
       title: Unsere Lösungen
-      text: Full-Cycle Cyber Security Lösungen für Ihr Hardware oder Software Produkt. Konzentrieren Sie sich auf Ihr Kerngeschäft.
+      text: Full-Cycle Security Lösungen für Ihr Hardware- oder Softwareprodukt. Konzentrieren Sie sich auf Ihr Kerngeschäft.
   
       items:
         - name: Risikoanalyse
           icon: magnifying-glass
-          description: Regularien wie der CRA schreiben eine Risikoanalyse als Teil der technischen Dokumentation Ihres Produkts vor. Wir helfen Ihnen bei der Durchführung der Analyse und der Erstellung der entsprechenden Dokumentation.
+          description: Regulierungen wie der CRA verlangen eine Risikoanalyse als Bestandteil der technischen Dokumentation Ihres Produkts. Wir unterstützen Sie bei der Durchführung der Analyse und der Erstellung der entsprechenden Dokumentation.
         - name: Sicherheitskonzept
           icon: shield-check
-          description: Die Regularien schreiben weiterhin das Einbeziehen von Cybersicherheit während des gesamten Produktzyklus vor. Gerne helfen wir Ihnen dabei Ihr Produkt sicher zu gestalten und beraten zu wirksamen Maßnahmen, welche die Sicherheitsrisiken minimieren. 
+          description: Die Regulierungen verlangen zudem die Berücksichtigung von Cybersicherheit während des gesamten Produktlebenszyklus. Wir unterstützen Sie gerne dabei, Ihr Produkt sicher zu gestalten, und beraten Sie zu wirksamen Maßnahmen, die Sicherheitsrisiken minimieren.
         - name: Monitoring
           icon: computer-desktop
-          description: Auch schreiben Regularien vor, dass Sie den Sicherheitszustands Ihres Produktes in Betrieb überprüfen und Sicherheitsvorfälle melden. Gerne entwickeln wir mit Ihnen gemeinsam Lösungen, wie Sie einen sicheren Betrieb Ihres Produktes beurteilen können. 
+          description: Regulierungen schreiben außerdem vor, den Sicherheitszustand Ihres Produkts während des Betriebs zu überprüfen und Sicherheitsvorfälle zu melden. Wir entwickeln gerne gemeinsam mit Ihnen Lösungen, um den sicheren Betrieb Ihres Produkts zu beurteilen.
   - block: resume-biography
     id: about
     # content:
@@ -90,4 +90,6 @@ sections:
     #     style: ''
     content:
       username: david
+    design:
+      background: 
 ---
