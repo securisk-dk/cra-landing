@@ -1,6 +1,6 @@
 ---
 title: Impressum
-date: 2023-12-01
+date: 2023-09-30
 share: false
 ---
 
@@ -11,7 +11,7 @@ Waldstr. 57
 45525 Hattingen  
 
 ### Kontakt  
-E-Mail: [securisk-dk@gmail.com](mailto:securisk-dk@gmail.com)  
+E-Mail: [david@fluela-solutions.com](mailto:david@fluela-solutions.com)  
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
 David Knichel  

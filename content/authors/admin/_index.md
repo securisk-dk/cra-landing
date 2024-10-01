@@ -31,7 +31,7 @@ bio:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:securisk-dk@gmail.com'
+    url: 'mailto:david@fluela-solutions.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev

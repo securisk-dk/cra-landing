@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Flūela Solutions  # Website name
-baseURL: 'https://fluela-solutions.com/' # Website URL
+baseURL: 'https://fluela-solutions.de/' # Website URL
 
 ############################
 ## PAGE OPTIONS

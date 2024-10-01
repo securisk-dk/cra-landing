@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Jetzt Anfragen"
-      url: 'mailto:securisk-dk@gmail.com'
+      url: 'mailto:david@fluela-solutions.com'
     show_search: true
     show_theme_chooser: true
 

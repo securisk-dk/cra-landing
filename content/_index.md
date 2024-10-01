@@ -14,7 +14,7 @@ sections:
       text: 🔒 Wir helfen Ihnen dabei Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten. 🔒
       primary_action:
         text: Fragen Sie uns an!
-        url: 'mailto:securisk-dk@gmail.com'
+        url: 'mailto:david@fluela-solutions.com'
         icon: rocket-launch
       secondary_action:
         text: Über uns

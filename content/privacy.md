@@ -38,7 +38,7 @@ David Knichel
 Waldstr. 57  
 45525 Hattingen  
 
-E-Mail: [securisk-dk@gmail.com](mailto:securisk-dk@gmail.com)
+E-Mail: [david@fluela-solutions.com](mailto:david@fluela-solutions.com)
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
