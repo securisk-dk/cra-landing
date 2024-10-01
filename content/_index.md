@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Konformität zum Cyber Resilience Act
-      text: 🔒 Wir helfen Ihnen dabei Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten. 🔒
+      text: 🔒 Wir helfen Ihnen dabei, Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten. 🔒
       primary_action:
         text: Fragen Sie uns an!
         url: 'mailto:david@fluela-solutions.com'
@@ -62,7 +62,7 @@ sections:
     id: solutions 
     content:
       title: Unsere Lösungen
-      text: Full-Cycle Security Lösungen für Ihr Hardware- oder Softwareprodukt. Konzentrieren Sie sich auf Ihr Kerngeschäft.
+      text: Full-Cycle Security-Lösungen für Ihr Hardware- oder Softwareprodukt. Konzentrieren Sie sich auf Ihr Kerngeschäft.
   
       items:
         - name: Risikoanalyse
@@ -70,7 +70,7 @@ sections:
           description: Regulierungen wie der CRA verlangen eine Risikoanalyse als Bestandteil der technischen Dokumentation Ihres Produkts. Wir unterstützen Sie bei der Durchführung der Analyse und der Erstellung der entsprechenden Dokumentation.
         - name: Sicherheitskonzept
           icon: shield-check
-          description: Die Regulierungen verlangen zudem die Berücksichtigung von Cybersicherheit während des gesamten Produktlebenszyklus. Wir unterstützen Sie gerne dabei, Ihr Produkt sicher zu gestalten, und beraten Sie zu wirksamen Maßnahmen, die Sicherheitsrisiken minimieren.
+          description: Die Regulierungen verlangen zudem die Berücksichtigung von Cybersicherheit während des gesamten Produktlebenszyklus. Wir unterstützen Sie gerne dabei, Ihr Produkt sicher zu gestalten und beraten Sie zu wirksamen Maßnahmen, die Sicherheitsrisiken minimieren.
         - name: Monitoring
           icon: computer-desktop
           description: Regulierungen schreiben außerdem vor, den Sicherheitszustand Ihres Produkts während des Betriebs zu überprüfen und Sicherheitsvorfälle zu melden. Wir entwickeln gerne gemeinsam mit Ihnen Lösungen, um den sicheren Betrieb Ihres Produkts zu beurteilen.
