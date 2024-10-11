@@ -1,17 +1,18 @@
 ---
 title: Der Cyber Resilience Act - Die EU verpflichtet Hersteller digitaler Produkte zu IT-Sicherheit und Risikobewertung 
 summary: Der vom EU-Parlament verabschiedete Cyber Resilience Act verpflichtet Hersteller digitaler Produkte zu umfassenden IT-Sicherheitsmaßnahmen und einer detaillierten Dokumentation. Mit diesem Artikel möchten wir Ihnen die Möglichkeit bieten, zu überprüfen, ob Ihr Produkt vom Cyber Resilience Act betroffen ist und welchen Umfang die Regelungen haben.
-date: 2024-08-29
+date: 2024-10-10
 authors:
   - admin
 tags:
   - CRA
   - IT Sicherheit
+  - Riskoanalyse
 image:
   caption: EU/Chip Art (created using flux.1 pro AI)
 ---
 
-Der [Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) wurde bereits vom EU Parlement verabschiedet und wird nach formeller Bestätigung des EU Rates höchstwarscheinlich in den nächsten Wochen final beschlossen. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.
+Der [Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.
 
 ## Ist mein Produkt betroffen?
 Der Cyber Resilience Act (CRA) richtet sich an Hersteller von Produkten mit digitalen Elementen, die in der Europäischen Union in Verkehr gebracht werden.
@@ -19,6 +20,7 @@ Der Cyber Resilience Act (CRA) richtet sich an Hersteller von Produkten mit digi
 Betroffen sind digitale Produkte – also Produkte mit Hardware- und/oder Softwarekomponenten – die über eine Kommunikationsschnittstelle (ob per Stecker, Kabel oder kabellos) mit der Außenwelt verbunden sind. Ausgenommen sind medizinische Produkte sowie Produkte für den motorisierten Personentransport, da diese unter separate, eigenständige Regulierungen fallen. Beispiele für Produkte, die unter den neuen CRA fallen, sind:
 
 - Smart-Home-Produkte
+- Smart TVs
 - Spielzeug mit Sprachaufnahme und -verarbeitung
 - Ferngesteuerte Spielzeuge
 - Smarte Hygieneprodukte
@@ -61,9 +63,7 @@ Die Nichteinhaltung des Cyber Resilience Acts kann zu sehr hohen Bußgeldern, Ve
 
 ## Wann tritt der Cyber Resilience Act in Kraft?
 
-Dass der CRA demnächst in Kraft tritt, ist sicher. Der genaue Zeitpunkt ist jedoch noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU-Rat den CRA in den nächsten Wochen final unterzeichnen wird und er dann in Kraft tritt.
-
-Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen über den gesamten Produktlebenszyklus handelt und IT-Sicherheit bereits in der Entwicklungsphase berücksichtigt werden muss, sollten Hersteller frühzeitig beginnen, diese Maßnahmen in ihre Prozesse und Produkte zu integrieren.
+Hersteller haben jetzt, nach der Verabschiedung, 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen über den gesamten Produktlebenszyklus handelt und IT-Sicherheit bereits in der Entwicklungsphase berücksichtigt werden muss, sollten Hersteller frühzeitig beginnen, diese Maßnahmen in ihre Prozesse und Produkte zu integrieren.
 
 ## Was sind meine Pflichten?
 

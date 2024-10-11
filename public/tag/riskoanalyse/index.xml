@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CRA | Flūela Solutions</title>
-    <link>http://localhost:1313/tag/cra/</link>
-      <atom:link href="http://localhost:1313/tag/cra/index.xml" rel="self" type="application/rss+xml" />
-    <description>CRA</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <title>Riskoanalyse | Flūela Solutions</title>
+    <link>http://localhost:1313/tag/riskoanalyse/</link>
+      <atom:link href="http://localhost:1313/tag/riskoanalyse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riskoanalyse</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo.svg</url>
-      <title>CRA</title>
-      <link>http://localhost:1313/tag/cra/</link>
+      <title>Riskoanalyse</title>
+      <link>http://localhost:1313/tag/riskoanalyse/</link>
     </image>
     
     <item>
       <title>Der Cyber Resilience Act - Die EU verpflichtet Hersteller digitaler Produkte zu IT-Sicherheit und Risikobewertung</title>
       <link>http://localhost:1313/blog/cyber-resilience-act/</link>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/cyber-resilience-act/</guid>
       <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
 &lt;h2 id=&#34;ist-mein-produkt-betroffen&#34;&gt;Ist mein Produkt betroffen?&lt;/h2&gt;
@@ -186,20 +186,6 @@ renders as
 - [ ] Do something else
 
 ## Did you find this page helpful? Consider sharing it 🙌 --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wie können die IT-Sicherheitsrisiken meines Produkts systematisch aufgezeigt werden? Eine Einführung.</title>
-      <link>http://localhost:1313/blog/riskanalysis/</link>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/riskanalysis/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Risko = Impact x Probability&lt;/li&gt;
-&lt;li&gt;Was für Impact Klassen gibt es bzgl. Security?&lt;/li&gt;
-&lt;li&gt;Wie wird die Umsetzbarkeit eines Angriffs bewertet?&lt;/li&gt;
-&lt;li&gt;Warum hilft uns das?&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

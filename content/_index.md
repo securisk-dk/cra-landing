@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Konformität zum Cyber Resilience Act
-      text: 🔒 Wir helfen Ihnen dabei, Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten. 🔒
+      text: Wir helfen Ihnen dabei, Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten. 
       primary_action:
         text: Fragen Sie uns an!
         url: 'mailto:david@fluela-solutions.com'
@@ -20,7 +20,7 @@ sections:
         text: Über uns
         url: /#about
       announcement:
-        text: "Ist mein Produkt vom Cyber Resilience Act betroffen?"
+        text: "Der CRA wurde final von der EU verabschiedet! Ist mein Produkt betroffen?"
         link:
           text: "Erfahren Sie mehr."
           url: "/blog/cyber-resilience-act/"

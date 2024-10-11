@@ -17,12 +17,13 @@
       <link>http://localhost:1313/blog/cyber-resilience-act/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/cyber-resilience-act/</guid>
-      <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; wurde bereits vom EU Parlement verabschiedet und wird nach formeller Bestätigung des EU Rates höchstwarscheinlich in den nächsten Wochen final beschlossen. Der CRA geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
+      <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
 &lt;h2 id=&#34;ist-mein-produkt-betroffen&#34;&gt;Ist mein Produkt betroffen?&lt;/h2&gt;
 &lt;p&gt;Der Cyber Resilience Act (CRA) richtet sich an Hersteller von Produkten mit digitalen Elementen, die in der Europäischen Union in Verkehr gebracht werden.&lt;/p&gt;
 &lt;p&gt;Betroffen sind digitale Produkte – also Produkte mit Hardware- und/oder Softwarekomponenten – die über eine Kommunikationsschnittstelle (ob per Stecker, Kabel oder kabellos) mit der Außenwelt verbunden sind. Ausgenommen sind medizinische Produkte sowie Produkte für den motorisierten Personentransport, da diese unter separate, eigenständige Regulierungen fallen. Beispiele für Produkte, die unter den neuen CRA fallen, sind:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Smart-Home-Produkte&lt;/li&gt;
+&lt;li&gt;Smart TVs&lt;/li&gt;
 &lt;li&gt;Spielzeug mit Sprachaufnahme und -verarbeitung&lt;/li&gt;
 &lt;li&gt;Ferngesteuerte Spielzeuge&lt;/li&gt;
 &lt;li&gt;Smarte Hygieneprodukte&lt;/li&gt;
@@ -46,8 +47,7 @@
 &lt;hr&gt;
 &lt;p&gt;Die Nichteinhaltung des Cyber Resilience Acts kann zu sehr hohen Bußgeldern, Vertriebsverboten, Produktrückrufen und möglichen Schadenersatzforderungen führen. Unternehmen sollten daher sicherstellen, dass ihre Produkte mit digitalen Elementen den Anforderungen des CRA entsprechen, um rechtliche und finanzielle Risiken zu vermeiden. Da die Regulierungen Fachwissen in der IT-Sicherheit voraussetzen und die Maßnahmen je nach Produkt sehr umfangreich sein können, empfehlen wir Ihnen, sich schon jetzt mit dem CRA auseinanderzusetzen und die erforderlichen Maßnahmen und Dokumente umzusetzen. &lt;a href=&#34;mailto:securisk-dk@gmail.com&#34;&gt;Falls Sie Hilfe benötigen, unterstützen wir Sie gerne.&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;wann-tritt-der-cyber-resilience-act-in-kraft&#34;&gt;Wann tritt der Cyber Resilience Act in Kraft?&lt;/h2&gt;
-&lt;p&gt;Dass der CRA demnächst in Kraft tritt, ist sicher. Der genaue Zeitpunkt ist jedoch noch nicht abschließend geklärt. Momentan geht man davon aus, dass der EU-Rat den CRA in den nächsten Wochen final unterzeichnen wird und er dann in Kraft tritt.&lt;/p&gt;
-&lt;p&gt;Hersteller haben nach Inkrafttreten 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen über den gesamten Produktlebenszyklus handelt und IT-Sicherheit bereits in der Entwicklungsphase berücksichtigt werden muss, sollten Hersteller frühzeitig beginnen, diese Maßnahmen in ihre Prozesse und Produkte zu integrieren.&lt;/p&gt;
+&lt;p&gt;Hersteller haben jetzt, nach der Verabschiedung, 36 Monate Zeit, um die vorgeschriebenen Maßnahmen umzusetzen. Da es sich um Verpflichtungen über den gesamten Produktlebenszyklus handelt und IT-Sicherheit bereits in der Entwicklungsphase berücksichtigt werden muss, sollten Hersteller frühzeitig beginnen, diese Maßnahmen in ihre Prozesse und Produkte zu integrieren.&lt;/p&gt;
 &lt;h2 id=&#34;was-sind-meine-pflichten&#34;&gt;Was sind meine Pflichten?&lt;/h2&gt;
 &lt;p&gt;Der CRA verpflichtet Hersteller, Cybersicherheit während des gesamten Produktlebenszyklus zu berücksichtigen. Die spezifischen Pflichten unterscheiden sich je nach Kategorisierung des Produkts. Hierbei gibt es folgende Hauptkategorien:&lt;/p&gt;
 &lt;h3 id=&#34;produkte-mit-digitalen-elementen&#34;&gt;Produkte mit digitalen Elementen&lt;/h3&gt;
