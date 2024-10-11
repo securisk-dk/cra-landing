@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: cra-bg.png
           filters:
             brightness: 0.5
   # - block: stats
@@ -91,5 +91,6 @@ sections:
     content:
       username: david
     design:
-      background: 
+       # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
 ---

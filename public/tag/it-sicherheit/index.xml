@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tag/it-sicherheit/</link>
       <atom:link href="http://localhost:1313/tag/it-sicherheit/index.xml" rel="self" type="application/rss+xml" />
     <description>IT-Sicherheit</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo.svg</url>
       <title>IT-Sicherheit</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Der Cyber Resilience Act - Die EU verpflichtet Hersteller digitaler Produkte zu IT-Sicherheit und Risikobewertung</title>
       <link>http://localhost:1313/blog/cyber-resilience-act/</link>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/cyber-resilience-act/</guid>
       <description>&lt;p&gt;Der &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Resilience Act (CRA)&lt;/a&gt; geht für viele Hersteller von vernetzten Produkten mit strengen Verpflichtungen bezüglich der IT Sicherheit einher und verlangt von diesen erhöhten Aufwand in der Dokumentation.&lt;/p&gt;
 &lt;h2 id=&#34;ist-mein-produkt-betroffen&#34;&gt;Ist mein Produkt betroffen?&lt;/h2&gt;
