@@ -53,4 +53,4 @@ highlight_name: true
 website: ""
 ---
 
-Annemike Vierneisel, Masterabsolventin der IT-Sicherheit (TU Darmstadt), hat sich in der Automobilbranche auf die Umsetzung des UNECE-Standards R155 für Cyber-Sicherheit in eingebetteten Systemen spezialisiert. Sie verbindet technisches Know-how mit praxisorientierten Lösungen für sichere und eingebettete Systeme.
+Annemike Vierneisel, Masterabsolventin der IT-Sicherheit (TU Darmstadt), hat sich in der auf die Umsetzung von internationalen IT Security Standards in eingebetteten Systemen spezialisiert. Sie verbindet technisches Know-how mit praxisorientierten Lösungen.
