@@ -25,7 +25,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Annemike Vierneisel, Masterabsolventin der IT-Sicherheit (TU Darmstadt), hat sich in der Automobilbranche auf die Umsetzung des UNECE-Standards R155 für Cyber-Sicherheit in eingebetteten Systemen spezialisiert. Sie verbindet technisches Know-how mit praxisorientierten Lösungen für sichere und eingebettete Systeme.
+bio: Annemike Vierneisel, Masterabsolventin der IT-Sicherheit (TU Darmstadt), hat sich in der  auf die Umsetzung von internationalen IT Security Standards in eingebetteten Systemen spezialisiert. Sie verbindet technisches Know-how mit praxisorientierten Lösungen.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
