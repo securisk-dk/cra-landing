@@ -6,23 +6,23 @@ title: Dr. David Knichel
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: David 
+first_name: David
 last_name: Knichel
 
 # Status emoji
 status:
-  icon: 
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Founder
+role: Co-Founder
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
-    url: 
+  - name:
+    url:
 # Short bio (displayed in user profile at end of posts)
 bio: Dr.-Ing. David Knichel promovierte im Bereich der angewandten Kryptographie und Hardwaresicherheit und verfügt über umfassende Industrieerfahrung in der Sicherheit eingebetteter Systeme.
 
@@ -30,7 +30,7 @@ bio: Dr.-Ing. David Knichel promovierte im Bereich der angewandten Kryptographie
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:david@fluela-solutions.com'
+    url: "mailto:david@fluela-solutions.com"
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
