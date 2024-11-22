@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Konformität zum Cyber Resilience Act
-      text: Wir helfen Ihnen dabei, Ihre Produkte und Dokumentationen konform zu aktuellen EU IT-Sicherheitsrichtlinien zu gestalten.
+      text: Wir helfen Ihnen dabei, Ihre Produkte und Dokumentationen konform zu aktuellen EU-Cybersicherheitsrichtlinien zu gestalten.
       primary_action:
         text: Fragen Sie uns an!
         url: "mailto:david@fluela-solutions.com"
@@ -67,13 +67,14 @@ sections:
       items:
         - name: Risikoanalyse
           icon: magnifying-glass
-          description: Regulierungen wie der CRA verlangen eine Risikoanalyse als Bestandteil der technischen Dokumentation Ihres Produkts. Wir unterstützen Sie bei der Durchführung der Analyse und der Erstellung der entsprechenden Dokumentation.
+          description: Regulierungen wie der CRA fordern eine umfassende Risikoanalyse als Bestandteil Ihrer technischen Dokumentation. Wir unterstützen Sie bei der Analyse und erstellen gemeinsam mit Ihnen die notwendigen Unterlagen – schnell, präzise und konform.
         - name: Sicherheitskonzept
           icon: shield-check
-          description: Die Regulierungen verlangen zudem die Berücksichtigung von Cybersicherheit während des gesamten Produktlebenszyklus. Wir unterstützen Sie gerne dabei, Ihr Produkt sicher zu gestalten und beraten Sie zu wirksamen Maßnahmen, die Sicherheitsrisiken minimieren.
+          description: Cybersicherheit muss während des gesamten Produktlebenszyklus berücksichtigt werden. Wir helfen Ihnen, Ihr Produkt sicher zu gestalten, und empfehlen wirksame Maßnahmen, um Risiken nachhaltig zu minimieren.
         - name: Monitoring
           icon: computer-desktop
-          description: Regulierungen schreiben außerdem vor, den Sicherheitszustand Ihres Produkts während des Betriebs zu überprüfen und Sicherheitsvorfälle zu melden. Wir entwickeln gerne gemeinsam mit Ihnen Lösungen, um den sicheren Betrieb Ihres Produkts zu beurteilen.
+          description: Der sichere Betrieb Ihres Produkts endet nicht mit der Markteinführung. Regulierungen verlangen kontinuierliches Monitoring und die Meldung von Sicherheitsvorfällen. Wir entwickeln maßgeschneiderte Lösungen, die den Betrieb sicher und regelkonform halten.
+
   - block: resume-biography
     id: about
     # content:
