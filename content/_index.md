@@ -82,19 +82,19 @@ sections:
           text: Risiko = Auswirkung x Angriffsfläche
           feature_icon: check
           features:
-            - "Wir bieten Ihnen eine systematische und technische Risikobewertung für Ihr Produkt."
-            - "**Auswirkungen:** Welche Daten könnten kompromittiert werden? Welche Konsequenzen hätte das für Bereiche wie Safety, Privatsphäre, Geschäftsbetrieb oder rechtliche Vorgaben?"
-            - "**Angriffsfläche:** Wie leicht wäre ein Angriff durchzuführen? Gibt es eine Online-Schnittstelle? Ist ein Angriff aus der Ferne möglich, oder ist physischer Zugriff erforderlich?"
+            - "Wir bieten Ihnen eine präzise und systematische Risikobewertung für Ihr Produkt."
+            - "**Auswirkungen:** Welche Daten könnten gefährdet sein? Welche Folgen hätte das für Bereiche wie Sicherheit, Datenschutz, Geschäftsbetrieb oder rechtliche Anforderungen?"
+            - "**Angriffsfläche:** Wie einfach wäre ein Angriff? Gibt es eine Online-Schnittstelle? Ist ein Angriff aus der Ferne möglich, oder erfordert er physischen Zugriff?"
           image: risk.png
           button:
             text: Lassen Sie uns loslegen
             url: mailto:david@fluela-solutions.com
         - title: Technische Dokumentation
-          text: Wir übernehmen die Erstellung der risikobezogenen Dokumentation für Sie.
+          text: Wir übernehmen die Erstellung Ihrer risikobezogenen Dokumentation.
           feature_icon: check
           features:
-            - "Basierend auf der Risikoanalyse erstellen wir eine CRA-konforme Dokumentation für Ihr Produkt."
-            - "Sie können sich voll und ganz auf die Weiterentwicklung und Vermarktung Ihres Produktes konzentrieren."
+            - "Auf Basis der Risikoanalyse erstellen wir eine CRA-konforme Dokumentation für Ihr Produkt."
+            - "Sie können sich ganz auf die Weiterentwicklung und Vermarktung Ihres Produktes konzentrieren."
           image: doc.png
           button:
             text: Jetzt anfragen
